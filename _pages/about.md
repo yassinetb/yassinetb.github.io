@@ -1,26 +1,30 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Yassine – born and raised in the sunny and beautiful Morocco.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Since early 2024, I started a PhD under the supervision of [Prof. Benjamin Grewe](https://grewelab.org/biography/), where I divide my attention between the topics of Neuro-Symbolic AI, Open-Ended Learning, and AI reliability. I also work on the [ARC Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge), which I started investigating during my Master’s thesis. You can work with me by browsing through my [open projects](/_projects/) or by [contacting me](/_contact). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I sometimes give talks about my research and related topics. I also frequently teach programming and machine learning to teens and adults, and very much enjoy it. I particularly enjoy creating fun teaching material, and telling funny dad jokes while presenting ideas I'm passionate about.  
+
+I have been blessed with the love of music (not so much with talent for it, but never mind that). I play piano in a few musical projects around Zurich, mainly playing Jazz, Funk and occasionally classical. I hold a particular love for the universe of Opera and Orchestral Music, which pushed me to pick up orchestral conducting in my London days. I have had the chance to form a small ensemble - the Boyce Camerata - with whom I gave several concerts in different London venues.
+
+When I'm not doing science or music, you can find me reading literature, running around Zurich, writing some thoughts here and there, and making fun of my Italian flatmates in their own language. 
+
+
+<!-- In previous professional & academic lives, I have been a [Neural Systems Computation](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/neural-systems-and-computation.html) master student at ETH Zurich (2021-2023); a tech project manager for a [Moroccan company](https://www.bricodeco.ma/) (2021); a (proudly) failed startup-er (2020), a Machine Learning Engineer at a [maritime data analysis company](https://www.siriusinsight.ai/) (2019-2020), and a [Biomedical Engineer](https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng) bachelor student at King’s College London (2016-2019). -->

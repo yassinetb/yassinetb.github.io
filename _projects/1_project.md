@@ -1,81 +1,50 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Building and ARC task-generator with Reinforcement Learning
+description: 
+img: assets/img/ARC.png
 importance: 1
-category: work
-related_publications: true
+category: Open
+related_publications: false
+
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Background:**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+ARC was introduced by François Chollet as a benchmark for measuring generalization capabilities of artificial intelligence systems. It provides a set of tasks that require execution of rules, use of analogies, and understanding of structured relationships - echoing the type of intelligence tests used in human IQ assessments. While humans can perfectly solve all the ARC tasks, state-of-the-art computational performance is at 22% only. Interestingly, these state-of-the-art computational solutions are not learned, but are rather brute force search over a set of of hard-coded “primitive” functions (i.e. Domain Specific Language).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Short project/thesis topic:**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+In order to develop learning-based solutions, as opposed to more popular brute force Domain-Specific-Language based solutions, our group has developed a set of algorithmic data generators. While these allow us to generate a high number of tasks, they present a set of important shortcomings with regards to diversity and difficulty. To alleviate this, we have started building an RL framework, where an agent must *learn* to generate increasingly difficult and diverse tasks.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Your task:**
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+In this project, your task will be to continue building and improve the custom ARC-RL environment (with “Gym”). First, you will need to characterize different formulation of the environment in order to reach better performance of the RL generator-agent. This entails choosing specific configurations of the action and observation space that led to better learning – this is a study that has the potential of benefitting the RL community as a whole. Second, we would like to use our transformers-based solvers to ensure task validity and incentivize the RL generator-agent to generate tasks at the limit of the solver’s capacity. If working for a long thesis, adversarial learning between generator-agent and solver can be investigated (once the previous steps have been successfully completed).
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+**Your benefits:**
 
-{% raw %}
+As we are the first and only ones working on such an approach for ARC generation, we would like to publish a proof-of-concept ASAP, which should realistically be within the next 3-6 months of work; you would be a co-author on this publication, provided enough contribution. Furthermore, in this project, you will learn how to build custom RL environments, which is often the most critical part of any RL problem in real-world applications. In addition to hands-on experience, you will need to reason through the findings from a theoretical standpoint, thereby also learning about the theoretical aspect of RL.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+**Related works / Preliminary readings:**
 
-{% endraw %}
+- **POET:** https://www.uber.com/en-CH/blog/poet-open-ended-deep-learning/
+- **PAIRED: <https://blog.research.google/2021/03/paired-new-multi-agent-approach-for.html>**
+- **AlphaTensor**: <https://www.nature.com/articles/s41586-022-05172-4>
+- **ARC Original Paper:** <https://arxiv.org/abs/1911.01547>
+
+**Your profile**
+
+We are looking for a student proficient in Python and machine learning. Previous experience in RL is preferred but not required.
+
+**ARC-Group:**
+
+Become part of a fast-paced and polyvalent team of machine intelligence researchers, incrementally building solutions to the Abstraction and Reasoning Challenge (ARC) <https://www.kaggle.com/competitions/abstraction-and-reasoning-challenge/overview>. This research group, started in September 2022, developed several important building blocks, including custom data-generators, transformer-based solvers, dedicated domain specific language (DSL) and a custom reinforcement learning (RL) environment for data generation.
+
+**Starting date + Duration:**
+
+Semester project. Can possibly be envisioned as a thesis. Starting date possible from February 1st 2024.
+
+**Collaborators:**
+
+Yassine Taoudi Benchekroun: [ytaoudi@student.ethz.ch ](mailto:ytaoudi@student.ethz.ch)Alexander Nedergaard: [anederga@student.ethz.ch ](mailto:anederga@student.ethz.ch)Professor Benjamin Grewe: <bgrewe@ethz.ch>
+

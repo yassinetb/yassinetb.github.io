@@ -7,6 +7,7 @@ importance: 1
 category: open
 show: true
 permalink: /arc_project/
+url: /arc_project/
 related_publications: false
 date: 2024-01-01 00:00:00 UTC
 duration: 3-6 months

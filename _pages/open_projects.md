@@ -60,7 +60,7 @@ pagination: true
       <div class="grid">
         {% for project in sorted_projects %}
           <div class="project">
-            <a href="{{ project.permalink }}">
+            <a href="{{ project.url }}">
               <h2 class="project-title">{{ project.title }}</h2>
             </a>
             {% if project.authors %}

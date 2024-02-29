@@ -16,15 +16,15 @@ type:
     - Short project
 authors:
   - name: Yassine Taoudi-Benchekroun
-    url: "ytaoudi@student.ethz.ch"
+    url: "mailto:ytaoudi@student.ethz.ch"
     affiliations:
       name: Institute of Neuroinformatics
   - name: Alexander Nedergaard
-    url: "anederga@student.ethz.ch"
+    url: "mailto:anederga@student.ethz.ch"
     affiliations:
       name: Institute of Neuroinformatics
   - name: Prof. Benjamin Grewe 
-    url: "bgrewe@ethz.ch"
+    url: "mailto:bgrewe@ethz.ch"
     affiliations:
       name: Institute of Neuroinformatics
 toc:

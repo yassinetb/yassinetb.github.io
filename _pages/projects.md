@@ -3,8 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Feel free to reach out if you'd like to collaborate on open projects!
-nav: true
-nav_order: 2
+nav: false
+nav_order: 1
 display_categories: [Open, Past]
 horizontal: false
 ---

@@ -18,13 +18,12 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am Yassine – born and raised in the sunny and beautiful Morocco.
 
-Since early 2024, I started a PhD under the supervision of [Prof. Benjamin Grewe](https://grewelab.org/biography/), where I divide my attention between the topics of Neuro-Symbolic AI, Open-Ended Learning, and AI reliability. I also work on the [ARC Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge), which I started investigating during my Master’s thesis. You can work with me by browsing through my [open projects](/_projects/) or by [contacting me](/_contact). 
+Since early 2024, I started a PhD under the supervision of [Prof. Benjamin Grewe](https://grewelab.org/biography/), where I divide my attention between the topics of Neuro-Symbolic AI, Open-Ended Learning, and AI reliability. I also work on the [ARC Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge), which I started investigating during my Master’s thesis. You can work with me by browsing through my [open projects](/open-projects/) or by <a href="mailto:ytaoudi@student.ethz.ch">contacting me</a>. 
 
 I sometimes give talks about my research and related topics. I also frequently teach programming and machine learning to teens and adults, and very much enjoy it. I particularly enjoy creating fun teaching material, and telling funny dad jokes while presenting ideas I'm passionate about.  
 
 I have been blessed with the love of music (not so much with talent for it, but never mind that). I play piano in a few musical projects around Zurich, mainly playing Jazz, Funk and occasionally classical. I hold a particular love for the universe of Opera and Orchestral Music, which pushed me to pick up orchestral conducting in my London days. I have had the chance to form a small ensemble - the Boyce Camerata - with whom I gave several concerts in different London venues.
 
-When I'm not doing science or music, you can find me reading literature, running around Zurich, writing some thoughts here and there, and making fun of my Italian flatmates in their own language. 
-
+When I'm not doing science or music, you can find me reading literature, running around Zurich, writing some [random thoughts](/writing/), and making fun of my Italian flatmates in their own language. 
 
 <!-- In previous professional & academic lives, I have been a [Neural Systems Computation](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/neural-systems-and-computation.html) master student at ETH Zurich (2021-2023); a tech project manager for a [Moroccan company](https://www.bricodeco.ma/) (2021); a (proudly) failed startup-er (2020), a Machine Learning Engineer at a [maritime data analysis company](https://www.siriusinsight.ai/) (2019-2020), and a [Biomedical Engineer](https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng) bachelor student at King’s College London (2016-2019). -->

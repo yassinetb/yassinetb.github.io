@@ -207,6 +207,12 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+p.project-info {
+  margin-top: 0.2em; /* Adjust this value to your preference */
+  margin-bottom: 0.2em; /* Adjust this value to your preference */
+}
+
+
 .profile.float-right {
   margin-left: 1rem;
 }
@@ -240,6 +246,18 @@ ul.task-list input[type="checkbox"] {
     }
   }
 }
+
+.event {
+  font-weight: bold;
+  display: block;
+}
+
+.talks-title-no-vid {
+  font-weight: bold;
+  color: var(--global-theme-color);
+}
+
+
 
 // Navbar customization
 
@@ -507,11 +525,16 @@ footer.sticky-bottom {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
   padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-bottom: 0rem;
 
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
+  }
+  p {
+    text-align: left; /* Set text alignment to left */
+    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 }
 

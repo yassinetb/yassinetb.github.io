@@ -6,6 +6,7 @@ img: assets/img/ARC.png
 importance: 1
 category: open
 show: true
+url: /ARC_Project/
 related_publications: false
 date: 2024-01-01 00:00:00 UTC
 duration: 3-6 months
@@ -56,8 +57,8 @@ As we are the first and only ones working on such an approach for ARC generation
 
 ## Related works / Preliminary readings:
 
-- **POET:** <https://www.uber.com/en-CH/blog/poet-open-ended-deep-learning/>
-- **PAIRED: <https://blog.research.google/2021/03/paired-new-multi-agent-approach-for.html>**
+- **POET:** <https://arxiv.org/abs/1901.01753>
+- **PAIRED**: <https://blog.research.google/2021/03/paired-new-multi-agent-approach-for.html>
 - **AlphaTensor**: <https://www.nature.com/articles/s41586-022-05172-4>
 - **ARC Original Paper:** <https://arxiv.org/abs/1911.01547>
 

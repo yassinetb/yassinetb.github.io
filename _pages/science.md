@@ -6,7 +6,7 @@ nav_order: 1
 dropdown: true
 children:
   - title: Open Projects
-    permalink: /open-projects/
+    permalink: /projects/
   - title: divider
   - title: Past Projects
     permalink: /past_projects/

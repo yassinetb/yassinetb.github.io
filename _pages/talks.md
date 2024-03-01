@@ -24,13 +24,8 @@ nav_order: 3
         {% if item.inline -%} 
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
         {%- else -%} 
-        if {{% item.video $}}
             <a class="talks-title" href="{{item.video}}">{{ item.title }}</a>
             <p> {{item.description}}</p>
-        {%- else -%} 
-            <a class="talks-title">{{ item.title }}</a>
-            <p> {{item.description}}</p>
-        {%- endif %} 
         {%- endif %} 
         </td>
         <td>

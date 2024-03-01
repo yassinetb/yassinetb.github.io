@@ -11,7 +11,7 @@ nav: false
 <div class="talks">
     <div class="header-bar">
         <h1>Talks</h1>
-        <p>I really like to talk about science, music, and anything I'm passionate about. I often tell jokes during talks, sometimes people laugh. <a href="mailto:ytaoudi@student.ethz.ch">Invite me!</a>.</p> 
+        <p>I really like to talk about science, music, and anything I'm passionate about. I often tell jokes during talks, sometimes people laugh. [Invite me!]({{ site.email | prepend: 'mailto:' }}) </p> 
     </div>
 {% if site.talks != blank -%} 
 <div class="table-responsive">

@@ -5,8 +5,8 @@ nav: true
 nav_order: 2
 dropdown: true
 children:
-  - title: Consulting
-    permalink: /consulting/
+  - title: Advising
+    permalink: /advising/
   - title: divider
   - title: Talks
     permalink: /talks/

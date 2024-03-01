@@ -8,7 +8,7 @@ start_date: 2022-01-01 00:00:00 UTC
 end_date: 2022-02-01 00:00:00 UTC
 links:
   - name: Thesis 
-    url: /assets/pdf/NE1_Notes.pdf
+    url: /assets/pdf/NE1_LectureNotes.pdf
 institution: Institute of Neuroinformatics 
 collaborators:
   - Yassine Taoudi-Benchekroun

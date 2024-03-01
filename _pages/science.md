@@ -13,7 +13,4 @@ children:
   - title: divider
   - title: Work with me
     permalink: /work-with-me/
-  # - title: divider
-  # - title: blog
-    # permalink: /blog/
 ---

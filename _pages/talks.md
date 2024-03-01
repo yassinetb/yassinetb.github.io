@@ -24,7 +24,7 @@ nav_order: 3
         {% if item.inline -%} 
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
         {%- else -%} 
-            <a class="talks-title" href="{{item.video}}">{{ item.title }}</a>
+            <a class="talks-title-with-redirect" href="{{item.redirect_link}}">{{ item.title }}</a>
             <p> {{item.description}}</p>
         {%- endif %} 
         </td>
@@ -33,7 +33,7 @@ nav_order: 3
             <span class="talks-place">{{ item.location }}</span>
         </td>
     </tr>
-    {%- endfor %} 
+    {%- endfor %}
     </table>
 </div>
 {%- else -%} 

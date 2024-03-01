@@ -6,5 +6,5 @@ location: London, UK
 inline: false
 title: Prediction of Neonatal structural connectome with Deep Neural Networks.
 description: Talk for MRAI conference paper. 
-video: https://youtu.be/F_6CeXjoXps
+redirect_link: https://youtu.be/F_6CeXjoXps
 ---

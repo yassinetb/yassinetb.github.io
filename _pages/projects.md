@@ -8,9 +8,6 @@ horizontal: false
 pagination: true
 ---
 
-
-
-
 <div class="projects">
   <div class="header-bar">
     <h1>Open Projects</h1>

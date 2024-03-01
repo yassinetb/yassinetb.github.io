@@ -252,9 +252,12 @@ p.project-info {
   display: block;
 }
 
-.talks-title-no-vid {
+.talks-title-with-redirect{
   font-weight: bold;
   color: var(--global-theme-color);
+  &:hover {
+    color: var(--global-hover-color);
+  }
 }
 
 

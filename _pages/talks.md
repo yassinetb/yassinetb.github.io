@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /talks/
+related_posts: false
 title: 
 description: #I am open to talk opportunities if you are interested in my works.
 nav: false
-nav_order: 3
 ---
 
 <!-- pages/talks.md -->
@@ -24,7 +24,7 @@ nav_order: 3
         {% if item.inline -%} 
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
         {%- else -%} 
-            <a class="talks-title-with-redirect" href="{{item.redirect_link}}">{{ item.title }}</a>
+            <a class="talks-title-with-redirect" href= "{{ item.redirect_link}} ">{{ item.title }}</a>
             <p> {{item.description}}</p>
         {%- endif %} 
         </td>

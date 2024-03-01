@@ -8,9 +8,9 @@ children:
   - title: quotes
     permalink: /quotes/
   - title: divider
-  - title: readings
-    permalink: /readings/
-  # - title: divider
-  # - title: blog
-    # permalink: /blog/
+  - title: bookshelf
+    permalink: /bookshelf/
+  - title: divider
+  - title: internet favourites
+    permalink: /internet-favourites/
 ---

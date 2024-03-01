@@ -5,6 +5,7 @@ permalink: /projects/
 description: Currently looking for students to collaborate on these projects - please reach out! 
 nav: false
 horizontal: false
+related_posts: false
 pagination: true
 ---
 
@@ -59,7 +60,7 @@ pagination: true
       <div class="grid">
         {% for project in sorted_projects %}
           <div class="project">
-            <a href="{{ project.url | relative_url }}">
+            <a href="{{ project.url }}">
               <h2 class="project-title">{{ project.title }}</h2>
             </a>
             {% if project.authors %}

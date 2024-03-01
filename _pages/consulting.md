@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Consulting
+title: 
 permalink: /consulting/
 description: 
 nav: false
@@ -9,7 +9,13 @@ pagination: true
 
 ---
 
-## Consulting 
+<div class="talks">
+    <div class="header-bar">
+        <h1>Consulting</h1> 
+    </div>
+</div>
+
+<br />
 
 When I am not doing scientific research, I often have the chance to work on different kinds of projects. Some of them include: 
 

@@ -8,5 +8,3 @@ title: The ARC Challenge - Towards an Intelligent Solution
 description: Defense of my Master's Thesis at the Institue of Neuroinformatics. 
 redirect_link: https://www.youtube.com/watch?v=uADtswe-g6k&feature=youtu.be
 ---
-
-<!-- `The ARC Challenge - Towards an Intelligent Solution`. Defense of my Master's Thesis at the Institue of Neuroinformatics.  -->

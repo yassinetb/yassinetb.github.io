@@ -11,6 +11,9 @@ children:
   - title: Past Projects
     permalink: /past_projects/
   - title: divider
+  - title: Publications
+    permalink: /publications/
+  - title: divider
   - title: Work with me
     permalink: /work-with-me/
 ---

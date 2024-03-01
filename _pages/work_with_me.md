@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work with me
+title: 
 permalink: /work-with-me/
 description: 
 nav: false
@@ -8,6 +8,14 @@ horizontal: false
 pagination: true
 
 ---
+<div class="talks">
+    <div class="header-bar">
+        <h1>Work with me</h1> 
+    </div>
+</div>
+
+<br />
+
 
 ## Collaboration
 

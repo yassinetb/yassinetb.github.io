@@ -66,16 +66,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: yassinetb # your GitHub user name
 gitlab_username: # your GitLab user name
-goodreads_username: 147994460-yassine-taoudi-benchekroun #
+goodreads_username: 147994460 #
 x_username: TBen_Yassine # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: yassine-taoudi-benchekroun-b80b10133
 telegram_username: # your Telegram user name
 scholar_userid: gPLFqggAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
+medium_username: ytbenchekroun 
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
@@ -168,6 +168,9 @@ collections:
   projects:
     output: true 
     permalink: /projects/:path/
+  past_projects:
+    output: true 
+    permalink: /past_projects/:path/
   talks:
     defaults:
       layout: post

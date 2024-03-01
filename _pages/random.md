@@ -1,16 +1,16 @@
 ---
 layout: page
-title: random
+title: Random
 nav: true
-nav_order: 8
+nav_order: 3
 dropdown: true
 children:
-  - title: quotes
-    permalink: /quotes/
-  - title: divider
-  - title: bookshelf
+  - title: Bookshelf
     permalink: /bookshelf/
   - title: divider
-  - title: internet favourites
+  - title: Blog
+    permalink: /blog/
+  - title: divider
+  - title: Internet Favourites
     permalink: /internet-favourites/
 ---

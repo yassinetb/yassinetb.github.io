@@ -9,7 +9,8 @@ nav: false
 <div class="talks">
     <div class="header-bar">
         <h1>Internet Favourites</h1>
-        <p>Sometimes I stumble upon some stuff on the internet that just deeply impacts. Could be a Youtube video, an article, a Reddit Thread. Often, these are things I would like to pledge to get back to at least once a year - to keep me in check whenever in need. These are listed on this page. It's in no particular order - if at some point it gets too long, I should sort them by themes - feel free to harass me to get that done.</p> 
+        <p>Sometimes I stumble upon some stuff on the internet that deeply impacts and fascinates me. I always feel an urge to share with my friends; but every mind is different - ideas that fascinate me often do not resonate with my friends in the same way, or at least, not at the same time. In the end, our fascination for an idea is less dependant on the idea's quality than it is dependant on our (unconscious) openness to it at a given time. 
+        Who knows - maybe your mind is currently open for some fascination? Maybe you'll find something here...</p> 
     </div>
 </div>
 

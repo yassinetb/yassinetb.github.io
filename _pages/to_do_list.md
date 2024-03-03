@@ -21,6 +21,7 @@ nav: false
 - [ ] Add a full CV. To be honest I'm not quite sure I want to do that. Maybe I will. Let's see. 
 - [ ] Add the blog posts from Medium into the website. Ideally, add a comment section. 
 - [ ] Find a way to automatically retrieve the latest book reviews from GoodReads. Though honeslty I'll never do this I think. 
+- [ ] Add some music to the blog. 
 
 <br />
 

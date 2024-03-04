@@ -9,8 +9,8 @@ nav: false
 <div class="talks">
     <div class="header-bar">
         <h1>Internet Favourites</h1>
-        <p>Sometimes I stumble upon ideas on the internet that deeply fascinates me. I always feel an urge to share with my friends - and often feel disappointed by their underwhelming reactions. I understood that every mind is different - ideas that fascinate me often won't resonate with my friends in the same way, or at least, not at the same time. In the end, our fascination for an idea is less dependant on the idea's quality than it is dependant on our (unconscious) openness to it at a given time. 
-        <br />
+        <p>Sometimes I stumble upon things on the internet that deeply fascinate me. I always feel an urge to share them with my friends - and often feel disappointed with underwhelming reactions. I've now made peace with the fact that every mind is different - what fascinates me often won't resonate with my friends in the same way, or at least, not at the same time. In the end, our fascination for something is less dependant on its quality than it is dependant on our (unconscious) openness to it at a given time. Oh and that applies to people too. 
+        <br /><br />
         Who knows - maybe your mind is currently open for some fascination? Maybe you'll find something here...</p> 
     </div>
 </div>
@@ -25,9 +25,11 @@ nav: false
 
 * [The Bitter Lessons - Richard Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) Gotta love the plain HTML of this article - somewhat funny given the topic. Every scientist should read this - especially anyone interested in computing. This is what made me understand that Neuromorphic Engineering, as fascinating and beautiful as it was, wasn't gonna make the cut.  
 
+* [The Coffe-House of Surat - Leo Tolstoy](https://www.marxists.org/archive/tolstoy/1893/the-coffeehouse-of-surat.html). A short "coffee-house chat" written by Tolstoy, where everyone talks about why their religion is the best one. You've guessed it, no one manages to convince anyone else - but they do find some form of (unexpected)agreement in the end...  
+
 * [Lennie Tristano - Tangerine](https://www.youtube.com/watch?v=lGLpczTtnEM) Look at that left hand... Oh and he's blind, of course. 
 
-* [Demis Hassabis Interview](https://www.youtube.com/watch?v=1X7Koxx4qJE&list=FLVEGJyKdX1f_76VaLu_Viig&index=42) Demis is cool. Demis is very cool. This interview is a great one. 
+* [Tantacrul: The Battle for how We Read Music](https://www.youtube.com/watch?v=Eq3bUFgEcb4&t=951s) Excellent "documentary-movie" (yes I wouldn't call this a "Youtube video") on the history and evolution of music notation. 
 
 * [The Language of The New Music - Wittgenstein & Schoenberg](https://www.youtube.com/watch?v=DRI_ZSh6iF4&list=FLVEGJyKdX1f_76VaLu_Viig&index=71) This started my Wittgenstein obsession phase. I'm glad it ended though. 
 

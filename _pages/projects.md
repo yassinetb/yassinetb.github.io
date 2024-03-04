@@ -13,7 +13,7 @@ pagination: true
   <div class="header-bar">
     <h1>Open Projects</h1>
     <p>These projects are currently offered for prospective students. If anything interests you, 
-  please [email me directly]({{ site.email | prepend: 'mailto:' }})  to inquire and talk! If you'd like to know
+  please <a href="mailto:{{%site.email%}}">email me directly</a> to inquire and talk! If you'd like to know
   what it's like to work with me and what kind of students I'm looking for, please have a read <a href="/work-with-me">here</a>.</p> 
   </div>
   {% if site.enable_project_categories and page.display_categories %}

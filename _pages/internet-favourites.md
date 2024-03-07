@@ -23,6 +23,8 @@ nav: false
 
 * [You and Your Research - Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html). Read this from a recommendation by Jimmy before the start of my PhD. Inspiring read that one should go back to very frequently while conductin research. 
 
+* [Neural Network Training Makes Beautiful Fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html) A beautiful short piece of work where the author performed a grid search over learning rates for a very simple network. The results is some absolutely fantastic fractal visuals of hyperparameter space convergence/divergence. Indeed, this is not so surprising - after all - "Both [fractals and DNNs] involve repeatedly applying a function to its own output. In both cases, that function has hyperparameters that control its behavior. In both cases the repeated function application can produce outputs that either diverge to infinity or remain happily bounded depending on those hyperparameters." Obvious - isn't it? 
+
 * [The Bitter Lessons - Richard Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) Gotta love the plain HTML of this article - somewhat funny given the topic. Every scientist should read this - especially anyone interested in computing. This is what made me understand that Neuromorphic Engineering, as fascinating and beautiful as it was, wasn't gonna make the cut.  
 
 * [The Coffe-House of Surat - Leo Tolstoy](https://www.marxists.org/archive/tolstoy/1893/the-coffeehouse-of-surat.html). A short "coffee-house chat" written by Tolstoy, where everyone talks about why their religion is the best one. You've guessed it, no one manages to convince anyone else - but they do find some form of (unexpected)agreement in the end...  

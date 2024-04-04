@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.tawmen.com/sitemap.xml
+Sitemap: https://www.yassine.fyi/sitemap.xml

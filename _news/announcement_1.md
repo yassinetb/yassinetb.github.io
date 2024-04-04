@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have officially started my PhD!
+I have started my PhD at the Institute of Neuroinformatics and ETH AI-Center!

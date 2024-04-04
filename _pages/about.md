@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am Yassine – born and raised in sunny and beautiful Morocco.
 
-I am a PhD student under the supervision of [Prof. Benjamin Grewe](https://grewelab.org/biography/) at the Institute of Neuroinformatics, ETH Zurich. I am particularly interested in the topics of Neuro-Symbolic AI, Generalization, and Interpretibility and Safety. I also work on the [ARC Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge), which I started investigating during my Master’s thesis. You can work with me by browsing through my [open projects](/projects/) or by [contacting me]({{ site.email | prepend: 'mailto:' }}) . 
+I am a PhD student under the supervision of [Prof. Benjamin Grewe](https://grewelab.org/biography/) at the Institute of Neuroinformatics, ETH Zurich. I am particularly interested in the topics of Neuro-Symbolic AI, Generalization, Interpretibility and Safety. I also work on the [ARC Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge), which I started investigating during my Master’s thesis. You can work with me by browsing through my [open projects](/projects/) or by [contacting me]({{ site.email | prepend: 'mailto:' }}) . 
 
 I sometimes give [talks](/talks/) about my research and related topics. I also frequently teach programming and machine learning to teens and adults, and very much enjoy it. I particularly enjoy creating fun teaching material, and telling funny dad jokes while presenting ideas I'm passionate about.  
 

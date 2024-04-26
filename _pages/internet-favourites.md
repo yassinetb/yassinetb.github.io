@@ -17,9 +17,12 @@ nav: false
 
 <br />
 
+ 
 * [Something Left Unsaid - Lyle Mays Interview](https://www.lylemays.com/something-left-unsaid). This one really shook me for some reason, so much wisdom in it about his vision of the music industry and the process of creativity - of course, it can extend to so many different fields. I really went through a hardcore Lyle Mays phase - this was after I saw Pat Metheny's concerts in Montreux - I of course was completely mindblown, started digging and found out the extent of Myle's Genius.   
 
 * [Universal Mind of Bill Evans](https://www.youtube.com/watch?v=QwXAqIaUahI&t=386s) This shook my world when I first saw this in my teens. It still leaves me inspired everytime I hear it.
+
+* [Could a Neuroscientist Understand a Microprocessor?](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268). Easily one of my top 5 favourite papers of all time. The idea is so obvious yet so clever: could we use modern Neuroscience methodologies to understand a known "complex-distributed system": a microprocessor. Turns out that (rather unsurprisingly if you asked me) - modern Neuroscience techniques (connectomics, ablation studies etc...) are rather poor tools to get good insights into how a microprocess works. Surely they must better suited to understand the brain - a orders-of-magnitude more compelx system? Lol.
 
 * [You and Your Research - Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html). Read this from a recommendation by Jimmy before the start of my PhD. Inspiring read that one should go back to very frequently while conductin research. 
 
@@ -35,5 +38,6 @@ nav: false
 
 * [The Language of The New Music - Wittgenstein & Schoenberg](https://www.youtube.com/watch?v=DRI_ZSh6iF4&list=FLVEGJyKdX1f_76VaLu_Viig&index=71) This started my Wittgenstein obsession phase. I'm glad it ended though. 
 
+* [Why I'm Awlays Late - Tim Urban](https://waitbutwhy.com/2015/07/why-im-always-late.html) A classic essay - the first one I ever read from Tim Urban. 
 
 

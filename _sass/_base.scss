@@ -207,11 +207,38 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+p.blog-display{
+  margin-top: 0.2em; /* Adjust this value to your preference */
+  margin-bottom: 0.2em; /* Adjust this value to your preference */
+}
+
 p.project-info {
   margin-top: 0.2em; /* Adjust this value to your preference */
   margin-bottom: 0.2em; /* Adjust this value to your preference */
 }
 
+.post-item {
+  display: flex;
+  align-items: center;
+}
+
+.post-thumbnail {
+  flex: 1;
+}
+
+.post-content {
+  flex: 4;
+}
+
+.post-thumbnail-img {
+  max-width: 100%; /* Adjust as needed */
+  max-height: auto;
+}
+
+.post-thumbnail-left-img {
+  max-width: 50px; /* Adjust as needed */
+  max-height: 50px; /* Adjust as needed */
+}
 
 
 .profile.float-right {

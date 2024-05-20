@@ -1,26 +1,47 @@
 ---
 layout: default
-title: 
 permalink: /blog/
-description: 
+title: Blog
 nav: false
-horizontal: false
-pagination: true
-
+pagination:
+  enabled: true
+  collection: posts
+  permalink: /page/:num/
+  per_page: 5
+  sort_field: date
+  sort_reverse: true
+  trail:
+    before: 1 # The number of links before the current page
+    after: 3 # The number of links after the current page
 ---
 
 <div class="talks">
     <div class="header-bar">
-        <h1>Blog</h1> 
+        <h1>Blog</h1>
+        <p>I write down random thoughts from time to time. You can also find these on <a href="https://medium.com/@ytbenchekroun">Medium</a>.</p>
     </div>
 </div>
 
 <br />
 
-I write from time to time on [Medium](https://medium.com/@ytbenchekroun). I'll put them here at some point soon. 
+<div class="post">
+  <ul class="post-list">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+      {% if post.show == true %}
+        <li>
+          <div class="blog-display">
+            <div class="blog-display">
+              <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+              <p>{{ post.date | date: '%B %d, %Y' }}</p>
+              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+            </div>
+          </div>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 
-<div style="text-align: center; font-size: 2em;">
-  {% if site.medium_username %}
-    <a href="https://medium.com/@{{ site.medium_username }}" title="Medium"><i class="fa-brands fa-medium"></i></a>
-  {% endif %}
 </div>
+ 
+

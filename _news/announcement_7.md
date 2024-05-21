@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New [blog post](/blog/2024/phd)! Now published onto my blog :) 
+New [blog post](/blog/3-months-into-my-phd)! Now published onto my blog :) 

@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: 3 Months into My PhD
+title: 3 Months into my PhD
 show: true
 category: open
 show: true

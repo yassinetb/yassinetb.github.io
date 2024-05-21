@@ -20,7 +20,7 @@ nav: false
 - [ ] Expand the "Internet Favourites" section, and most importantly, enable users to sort by Tag, or maybe by date at which I added it. I think this would be cool if the section gets bigger. 
 - [ ] Add a full CV. To be honest I'm not quite sure I want to do that. Maybe I will. Let's see. 
 - [x] Add the blog posts from Medium into the website. Ideally, add a comment section. 
-- [ ] Fix links to the blog posts.
+- [x] Fix links to the blog posts.
 - [ ] Add images to the blog posts.
 - [ ] Find a way to automatically retrieve the latest book reviews from GoodReads. Though honeslty I'll never do this I think. 
 - [ ] Add some music to the blog. 

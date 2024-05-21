@@ -29,7 +29,7 @@ I officially started my PhD 3 months ago, and while my current results make me f
 ---
 ## Choosing Your Research
 
-During a PhD, figuring out what problem to work on is more challenging and critical than solving solve the problem.
+During a PhD, figuring out what problem to work on is more challenging and critical than solving the problem.
 
 ### Good research? 
 
@@ -37,13 +37,13 @@ In the business world, the _loss function_ is generally <d-footnote>There is an 
 
 There is no absolute way to evaluate what good research is. Is it research that gets cited a lot? Is it research that remains influential decades after its publication? Is it research that gets published in top journals? Is it research that manages to solve very difficult problems? Is it research that manages to solve problems that many people care about? While all of these can somewhat be considered metrics of research quality, they often are not adjacent. Highly cited and top journal papers are not necessarily works that significantly influence a field. Solving very difficult problems is not necessarily something that *a lot of people will care* about, nor is it necessarily something that *people will care a lot* about. 
 
-Since we cannot find an absolute for what good research is, I feel it's best to assess it relative to the person conducting it: doing good research is doing the kind of research you look up to. For some, it's a technical and precise exploration of niche intricacies, for others, it's information integration and rethinking the direction of a field, for others, it might be real-world-oriented technical breakthroughs.
+Since we cannot find an absolute for what good research is, I feel it's best to assess it relative to the person conducting it: *doing good research is doing the kind of research you look up to*. For some, it's a technical and precise exploration of niche intricacies, for others, it's information integration and rethinking the direction of a field, for others, it might be real-world-oriented technical breakthroughs.
 
-Our role as researchers is to produce research that aligns with what we look up to. Not research just for the sake of publishing. This applies to every creative activity I guess - one should seek to produce the kind of work that they can be proud of and that they think other peers might look up to as well. 
+Our role as researchers is to produce research that aligns with what we look up to. And, *not* research just for the sake of publishing. This applies to every creative activity I guess - one should seek to produce the kind of work that they can be proud of and that they think other peers might look up to as well. 
 
-Now this is hard. Not only do you have to be incredibly performant and perseverant to achieve this, but you also have to navigate the thorny landmine of academic pressure to publish. Playing this conflictual game is certainly the greatest challenge of modern academic research - and I can feel it already. 
+Now this is hard. Not only do you have to be incredibly performant and perseverant to achieve this <d-footnote> particularly in today's hypercompetitive world </d-footnote>, but you also have to navigate the thorny landmine of academic pressure to publish. Playing this conflictual game is certainly the greatest challenge of modern academic research - and I can feel it already. 
 
-A concrete example that applies to me is to decide on whether to pursue publishing in NeurIPS style conferences, where incremental performance on benchmarks is the general pursuit, vs work that gets traditionally published in journals - slower, more tedious, and more risky too. Both are great in their own way - but one should consciously position themselves. <d-footnote> I'm saying this but I'm not even sure that's the case. Consciously positioning oneself in advance is great for self-help textbooks - but the reality is often more nuanced, and life happens and takes you in unexpected directions.</d-footnote>
+A concrete example that applies to me is to decide on whether to pursue publishing in NeurIPS style conferences, where incremental performance on benchmarks is the general pursuit, vs work that gets traditionally published in journals - slower, more tedious, and more risky too. Both are good in their own way - but one should consciously position themselves. <d-footnote> I'm saying this but I'm not even sure that's the case. Consciously positioning oneself in advance is great for self-help textbooks - but the reality is often more nuanced, and life happens and takes you in unexpected directions.</d-footnote>
 
 
 Successfully navigating this conflict takes a lot of discipline. One key aspect of this discipline is learning how to fight the right battles: the ones we'll enjoy fighting and actually have a chance at winning. 
@@ -53,7 +53,7 @@ Successfully navigating this conflict takes a lot of discipline. One key aspect 
 
 Academia can be an incredibly diverse and exciting universe, where ideas in all shapes and colors flow from everywhere. 
 
-People come to you with their new ideas all the time, they ask your opinion about things. Sometimes you'll read a paper and think “huh, this could be cool”, Some other time, your supervisor will come to you with their new idea and you know it would be a good thing if you tried it. Something (my personal favourite) you have a conversation with a scientist from a different field in a bar and see some parallels between both of your research and think that this would make a sexy and unconventional collaboration.
+People come to you with their new ideas all the time, they ask your opinion about things. Sometimes you'll read a paper and think “huh, this could be cool”, Some other time, your supervisor will come to you with their new idea and you know it would be a good thing if you tried it. Sometimes (my personal favourite) you have a conversation with a scientist from a different field in a bar and see some parallels between both of your research and think that this would make a sexy and unconventional collaboration.
 
 It is undeniably a privilege to evolve in environments where this is the norm, but it comes with a price: the burden of choice, and the challenge of focused attention.
 
@@ -65,10 +65,10 @@ What’s due diligence for a PhD student?
 
 It’s a _continuous_ dance between 4 core activities:
 
-1. **Create:** This is the core of your research, and the reason you were hired. This is the work you do in the lab: conducting your experiments and writing about them. This is where the entirety of your knowledge comes to life to create something that people around you (and hopefully yourself) may care about.
+1. **Create:** This is the core of your research, and the reason you were hired. This is the work you do in the lab: conducting your experiments and writing about them. This is where the entirety of your knowledge comes to life to create something that people around you (and hopefully yourself) may care about. And yes, I call this "create" because it is supposed to be creative work, not just mere execution of pre-existing methodologies without any novelty. Research is a creative activity. 
 2. **Read**: Papers, textbooks, taking classes... This is the space where you discover ideas and internalize them.
 3. **Interact**: Your discussion with your supervisors, your time at conferences, your time as a T.A., your meetings with the students you supervise, or casual science chit-chat with your friends and colleagues. This is where you get feedback on your ideas (and results), as well as share your ideas with people who care for them: sharing is learning. This is also where you find other people to work with.
-4. **Think**: Integrate all of the other three elements, iterate and adjust accordingly. Ask yourself the difficult questions: is this project actually going anywhere? Is this person worth working with? Is this work routine going on working or should I adjust? This is where you decide on a macro-level what to change in your way of practicing the previous three activities. 
+4. **Think**: Integrate all of the other three elements, iterate and adjust accordingly. Ask yourself the difficult questions: is this project actually going anywhere? Is this person worth working with? Is this work routine working or should I adjust? This is where you decide on a macro-level what to change in your way of practicing the previous three activities. 
 
 All of them are equally important and mutually beneficial. One can think of this like a control problem — where optimal state (successful research and timely graduation) can only be reached if these four are well balanced during the span of your PhD.
 
@@ -98,7 +98,7 @@ Now supervision has an additional layer compared to mere “delegation” —�
 
 Oh, before I forget - Choose your students wisely. Don't get too many. Don't get too many. Did I say you shouldn't get too many? 
 
-### Disjoint Supervision Thoughts and Stories 
+### Disjointed Supervision Thoughts and Stories <d-footnote> I couldn't find a way to smoothly connect these with my previous paragraphs, so I just put them here without transition. Oops</d-footnote>
 
 There are a number of interesting problems that one experiences while mentoring students. A couple of weeks ago, I realized that I had sent a student in the wrong direction (dead-end method). No big deal, “only” a few days of work were lost, but I should have done my homework better. In the moment I realized, I was torn between apologizing or slightly downplaying the time-loss into a “it’s fine, we learnt about X and Y in the process”. I picked a mix of both.
 
@@ -110,13 +110,19 @@ To get through a PhD, you _need_ to be in a stimulating lab, with stimulating pe
 
 I feel it — some days I feel a push because of a good conversation, or because someone I look up to asks me a difficult question or expects some good work from me. I also have days where I don’t feel that at all — and these days, not only am I not motivated to get anything done, but my work also feels significantly less meaningful.
 
-## Sleeping in on a random Tuesday
+## Sleeping in on a random Tuesday 
 
-My working (non-PhD/Academic) friends often ask us PhDs about how do we navigate the freedom of not showing up to work on a random Tuesday. Truth is, it's completely fucked up. There is this impression that a single day of work doesn't matter - and it's completely true: a single day of work doesn't matter in the greater scheme of your PhD. This makes it very close to "creative" kind of careers, rather than "corporate" ones. Does it matter if you don't compose that song? Does it matter if you don't write that essay? Of course not - no one will know that you haven't done it, and no one will care nor ask for it. But that song that you didn't compose, that essay that you didn't write, _that side-project that you never got to try out, that paper that you never took off your reading list_ - it could have been the start of your best work. It could have been the start of a work that actually is the 10x kind of achievement that we are after in life. 
+Non-PhD/Academic friends often ask me (and other PhDs) how do PhDs navigate the freedom of working on what they want, and the freedom of not showing up to work on a random Tuesday. Truth is, it completely fucks us up. There is this impression that a single day of work doesn't matter - and it's completely true: a single day of work doesn't matter in the greater scheme of your PhD <d-footnote>completing a PhD typically takes 3 to 6 years. So yeah, what's </d-footnote>. And since the only person you're accountable to in a PhD is yourself <d-footnote>Yes, PhD students are also accountable to their supervisors, but it's often not perceived as such in practice. Students do PhD for themselves, not to please their boss and stay on the payroll.</d-footnote>, it makes it incredibly difficult to motivate oneself to do what should be done, to keep showing up every day, read the things no one asked you to read, do the projects no one asked you to work on, and explore the ideas no one is pushing you to explore. 
 
-And why did you not do it? Because you didn't show up on that random Tuesday. 
+This makes the PhD experience very close to "creative" kind of careers, rather than "corporate" ones. Does it matter if you don't compose that song? Does it matter if you don't write that essay? Of course not - no one will know that you haven't done it, and no one will care nor ask for it. But that song that you didn't compose, that essay that you didn't write, _that side-project that you never got to try out, that paper that you never took off your reading list_ - it could have been the start of your best work. It could have been the start of a work that actually is the 10x kind of achievement that we are after in life. 
 
-That's a reality I haven't figured out how to deal with yet. I'll let you know if I do - I'm sure it will come in handy for quite a few people lol. 
+And why did you not do it? Because you didn't show up on that random Tuesday - thus not putting time on anything else than strictly urgent work.  
+
+Doing a PhD requires a special kind of discipline and organization. - to get you to show up every day, and master the exploration vs exploitation tradeoff. Every student who doesn't manage to do so ends up depressed, and I think that even students who kind of manage to do so also end up depressed. Caring about your work makes life more difficult I guess <d-footnote>I should probably eventually write about why I care about my work and choose to do things the way I do them. Feel free to ask me if you are interested haha. Maybe I can also speculate on why others care about their work.</d-footnote>. 
+
+One can also think of this as a *delayed gratification* problem. The work you do today has very minimal influence on the outcome of the end of the day. You'll probably keep getting paid even if not a single gram of good work comes out of your mind for 6 months during your PhD <d-footnote>Many people I know went through such phases.</d-footnote>. But you need to firmly believe in the power of *compounded growth* to keep showing up. 
+
+> “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.”
 
 ## Purpose
 

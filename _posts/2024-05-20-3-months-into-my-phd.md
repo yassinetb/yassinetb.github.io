@@ -45,19 +45,17 @@ Now this is hard. Not only do you have to be incredibly performant and persevera
 
 A concrete example that applies to me is to decide on whether to pursue publishing in NeurIPS style conferences, where incremental performance on benchmarks is the general pursuit, vs work that gets traditionally published in journals - slower, more tedious, and more risky too. Both are good in their own way - but one should consciously position themselves. <d-footnote> I'm saying this but I'm not even sure that's the case. Consciously positioning oneself in advance is great for self-help textbooks - but the reality is often more nuanced, and life happens and takes you in unexpected directions.</d-footnote>
 
-
 Successfully navigating this conflict takes a lot of discipline. One key aspect of this discipline is learning how to fight the right battles: the ones we'll enjoy fighting and actually have a chance at winning. 
-
 
 ### Navigating scientific distractions
 
 Academia can be an incredibly diverse and exciting universe, where ideas in all shapes and colors flow from everywhere. 
 
-People come to you with their new ideas all the time, they ask your opinion about things. Sometimes you'll read a paper and think “huh, this could be cool”, Some other time, your supervisor will come to you with their new idea and you know it would be a good thing if you tried it. Sometimes (my personal favourite) you have a conversation with a scientist from a different field in a bar and see some parallels between both of your research and think that this would make a sexy and unconventional collaboration.
+Sometimes you'll read a paper and think “huh, this could be cool to try”. Sometimes, your supervisor comes to you with their new idea, and you know it would be a good thing for your relationship if you tried it. Sometimes (my personal favourite) you have a conversation with a scientist from a different field in a bar and see some parallels between both of your research and think that this would make a sexy and unconventional collaboration.
 
 It is undeniably a privilege to evolve in environments where this is the norm, but it comes with a price: the burden of choice, and the challenge of focused attention.
 
-The more ideas are around you and the more people are around you, the more difficult it becomes to focus your attention and have a clear sense of direction — especially for the curious and playful spirits — which I’m lucky to be. But I remember the famous Steve Jobs quote from his Stanford commencement address: “you can’t connect the dots looking forward; you can only connect them looking backward” — trying to build your own direction while doing research is I think rather overrated; the story will emerge by itself towards the end — provided you consistently do *due diligence*. The trick is in the last part: doing one's due diligence.
+The more ideas are around you and the more people are around you, the more difficult it becomes to focus your attention and have a clear sense of direction — especially for the curious and playful spirits — which I’m lucky to be. But I remember the famous Steve Jobs quote from his Stanford commencement address: “you can’t connect the dots looking forward; you can only connect them looking backward” — trying to build your own direction while doing research is, I think, rather unrealistic: the story will emerge by itself towards the end — provided you consistently do *due diligence*. The trick is indeed in the last part: doing one's due diligence.
 
 ### Due Diligence
 
@@ -74,8 +72,7 @@ All of them are equally important and mutually beneficial. One can think of this
 
 The last part is probably the most often overlooked. A PhD can feel like a tight corridor that ones tries to escape - especially towards the middle of it (I've been told). It's important to feel like one has the capacity to change their way of doing and their direction - the _Sunk-Cost Fallacy_ can be brutal in Academia…
 
-During my first three months, I made a different mistake — I did very little 1) and only did 2) and 3) and 4). Bad too — obviously. But I blame the beginning for this mistake — the future will be different, especially since I now have a bit more momentum on different projects and can prototype quickly.
-
+During my first three months, I made a different mistake — I did very little 1) and only did 2), 3) and 4). Bad too — obviously. But I blame the beginning for this mistake — the future will be different, especially since I now have a bit more momentum on different projects and can prototype quickly.
 
 
 ## Collaborations and Supervision 
@@ -96,7 +93,7 @@ So why do people delegate? 1. Because they judge that their time is better spent
 
 Now supervision has an additional layer compared to mere “delegation” — teaching. This is one part I value a lot. I feel a responsibility towards the students I supervise. I feel like I must, to the best of my abilities, show them the way, explain them things the best I could, and most importantly, inspire them to do good Science. This is a humbling experience, that takes human discipline, but also scientific rigor and knowledge. While I know that a lot of student project I’ll oversee won’t lead to ground-breaking research, I know I have the opportunity to positively influence one’s scientific career and attitude to work — and that is a privilege and responsibility I’m happy to carry.
 
-Oh, before I forget - Choose your students wisely. Don't get too many. Don't get too many. Did I say you shouldn't get too many? 
+Oh, before I forget - Choose your students wisely. And don't get too many. Really, don't get too many. Did I say you shouldn't get too many? 
 
 ### Disjointed Supervision Thoughts and Stories <d-footnote> I couldn't find a way to smoothly connect these with my previous paragraphs, so I just put them here without transition. Oops</d-footnote>
 

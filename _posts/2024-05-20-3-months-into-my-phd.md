@@ -15,10 +15,11 @@ toc:
   - name: Collaborations and Supervision 
   - subsections:
     - name: Collaboration
-    - name: Supervision
-    - name: Disjoint Supervision Thoughts and Stories 
+    - name: Supervising Students
+    - name: Disjointed Supervision Thoughts and Stories 
   - name: Stimulation
   - name: Sleeping-in on a Random Tuesday
+  - name: Kindness and Stupid Questions
   - name: Purpose
   - name: Looking Ahead
 
@@ -47,7 +48,7 @@ A concrete example that applies to me is to decide on whether to pursue publishi
 
 Successfully navigating this conflict takes a lot of discipline. One key aspect of this discipline is learning how to fight the right battles: the ones we'll enjoy fighting and actually have a chance at winning. 
 
-### Navigating scientific distractions
+### Navigating Scientific Distractions
 
 Academia can be an incredibly diverse and exciting universe, where ideas in all shapes and colors flow from everywhere. 
 
@@ -57,7 +58,7 @@ It is undeniably a privilege to evolve in environments where this is the norm, b
 
 The more ideas are around you and the more people are around you, the more difficult it becomes to focus your attention and have a clear sense of direction — especially for the curious and playful spirits — which I’m lucky to be. But I remember the famous Steve Jobs quote from his Stanford commencement address: “you can’t connect the dots looking forward; you can only connect them looking backward” — trying to build your own direction while doing research is, I think, rather unrealistic: the story will emerge by itself towards the end — provided you consistently do *due diligence*. The trick is indeed in the last part: doing one's due diligence.
 
-### Due Diligence
+### Due Dilligence
 
 What’s due diligence for a PhD student?
 
@@ -83,7 +84,7 @@ Choose wisely.
 
 Don't do too much. Don't do too much. Did I say you shouldn't do too much? 
 
-### Supervising students
+### Supervising Students
 
 Supervising students, even if they are incredibly well chosen, is no substitute for doing science yourself. It is neither sufficient nor even satisfying to only give them a project and let them be. I already have three students under my wing and feel a bit overwhelmed by having to manage them — I simply do not have the time to have a detailed look at the details of their science.
 
@@ -120,6 +121,18 @@ Doing a PhD requires a special kind of discipline and organization. - to get you
 One can also think of this as a *delayed gratification* problem. The work you do today has very minimal influence on the outcome of the end of the day. You'll probably keep getting paid even if not a single gram of good work comes out of your mind for 6 months during your PhD <d-footnote>Many people I know went through such phases.</d-footnote>. But you need to firmly believe in the power of *compounded growth* to keep showing up. 
 
 > “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.”
+
+## Kindness and Stupid Questions
+
+Context: Due to various circumstances, I happen to be involved in a project where I have been struggling to contribute. The work is most often far-away from my expertise and current scientific focus, and I unfortunately do not have the time to catchup enough to manage contributing as I'd like to. 
+
+After one project meeting where I had been particularly useless (in the presence of a *top* ETH professor), one of the other PhD students present in the meeting messaged a few minutes after the call ended to tell me that I shouldn't feel left out, and that I should keep showing up, despite not managing to contribute yet. He told me about one project which he also got fortuitously involved in, and where he had no expertise either. But in his words, "I was part of the discussion and asked the stupid questions that only people without experience would ask, and that ended up being an actually helpful contribution." The project has now been written up (with him as co-author) and sent to NeurIPs - not bad for a project where you have no experience!
+
+I found his message incredibly inspiring because I never saw it through this light - instead of asking the *useful* stupid questions, we always feel self-conscious about not sounding stupid and choose to shut up. Things don't have to be this way.
+
+Even more so, I found his message inspiring because he perceived the struggle and embarassment I was going through, and was kind enough to take the initiative of encouraging me - just because. I'm eternally thankful for that - I really needed it at that moment.  
+
+I'll try to keep these lessons with me: ask the stupid questions, and most importantly, show kindness to people who are struggling.
 
 ## Purpose
 

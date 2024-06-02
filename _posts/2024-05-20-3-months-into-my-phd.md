@@ -25,7 +25,7 @@ toc:
 
 ---
 
-I officially started my PhD 3 months ago, and while my current results make me feel like I only started yesterday, I have already gone through quite a bit, and learned a few things about what it means to do Science and to conduct a PhD. Below are a few disconnected thoughts based on my experience — I’m aware that these reflections won’t generalize to everyone. In fact, it might not even generalize to my future self — but I decided to put them in writing anyway — a _Memorabilia_ for my future self.
+I officially started my PhD 3 months ago, and while my current results make me feel like I only started yesterday, I have already gone through quite a bit, and learned a few things about what it means to do Science and to conduct a PhD. Below are a few disconnected thoughts based on my experience — I’m aware that these reflections won’t generalize to everyone. I  n fact, it might not even generalize to my future self — but I decided to put them in writing anyway — a _Memorabilia_ for my future self.
 
 ---
 ## Choosing Your Research

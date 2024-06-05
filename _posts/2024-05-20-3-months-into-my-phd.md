@@ -56,7 +56,7 @@ Sometimes you'll read a paper and think “huh, this could be cool to try”. So
 
 It is undeniably a privilege to evolve in environments where this is the norm, but it comes with a price: the burden of choice, and the challenge of focused attention.
 
-The more ideas are around you and the more people are around you, the more difficult it becomes to focus your attention and have a clear sense of direction — especially for the curious and playful spirits — which I’m lucky to be. But I remember the famous Steve Jobs quote from his Stanford commencement address: “you can’t connect the dots looking forward; you can only connect them looking backward” — trying to build your own direction while doing research is, I think, rather unrealistic: the story will emerge by itself towards the end — provided you consistently do *due diligence*. The trick is indeed in the last part: doing one's due diligence.
+The more ideas are around you and the more people are around you, the more difficult it becomes to focus your attention and have a clear sense of direction — especially for the curious and playful spirits — which I’m lucky to be. But I remember the famous Steve Jobs quote from his Stanford commencement address: “you can’t connect the dots looking forward; you can only connect them looking backward” <d-footnote>A friend pointed to me that this might have been inspired by Kierkegaard's famous quote "Life can only be understood backwards; but it must be lived forwards."</d-footnote>— trying to build your own direction while doing research is, I think, rather unrealistic: the story will emerge by itself towards the end — provided you consistently do *due diligence*. The trick is indeed in the last part: doing one's due diligence.
 
 ### Due Dilligence
 

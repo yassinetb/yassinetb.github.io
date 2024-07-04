@@ -1,6 +1,6 @@
 ---
 layout: distill
-title:  How 8 Gringos gave a speech at an Uzbek wedding where no one spoke English
+title:  How 8 Gringos Gave a Speech at an Uzbek Wedding Where No One Spoke English
 show: true
 category: open
 show: true
@@ -26,6 +26,8 @@ toc:
     - name: Food 
   - name: Random stories and fun facts
 ---
+
+** THIS IS A WORK IN PROGRESS. PLEASE FEEL FREE TO REPORT TYPOS AND INACCURACIES. **
 
 In June 2024, I had the chance to travel to Uzbekistan for 10 days, visit the cities of Samarkand and Bukhara, and most importantly, extensively interact with my friend Amir's Uzbek family and attend the wedding of his cousin - *Dilshod Aka*. This trip was nothing short of extraordinary, and I will try to give an overview of some highlights in this blogpost. I tried here to synthetize the most interesting stories and observations about my stay in Uzbekistan - a country with rich historical relevance, strong culture and traditions, and most importantly, a country still very preserved from the cultural dilution caused by globalization and mass tourism. 
 
@@ -80,13 +82,11 @@ What I'd like you to remember from this is that Uzbekistan has essentially opene
 
 ### Lost (and found) in translation
 
-The entire trip was a game of translation - cultural and linguistic - where Amir had to translate both the conversations we were having with locals and his family, as well as the background behind some of the things we'd observe and ask him about. Thankfully, not everything had to be translated - particularly to Ayush (Indian) and myself (Moroccan). Ayush, fluent in Hindi, and I, fluent in Arabic could understand multiple words of Tajik; even more importantly, we could understand and relate to many cultural norms that we observed within their society. FOOTNOTE: Sure, this is not very surprising given that Tajik is essentially a Persian dialect, and Persian and Arabic do share a lot of words, but I had not realized this before arriving there - so I took note and was amazed by the similarities between my language and a language I had never heard about before.  See below. 
+The entire trip was a game of translation - cultural and linguistic - where Amir had to translate both the conversations we were having with locals and his family, as well as the background behind some of the things we'd observe and ask him about. Thankfully, not everything had to be translated - particularly to Ayush (Indian) and myself (Moroccan). Ayush, fluent in Hindi, and I, fluent in Arabic could understand multiple words of Tajik; even more importantly, we could understand and relate to many cultural norms that we observed within their society. Regarding the similarities between Tajik and Arabic, this is not very surprising given that Tajik is essentially a Persian dialect, and Persian and Arabic do share a lot of words, but I had not realized this before arriving there - so I took note and was amazed by the similarities between my language and a language I had never heard about before. Here is a list of these words, most often pronounced slightly differently, and funnily enough, written in Cyrillic...  
 
-One thing that often got lost in translation are the many jokes told by locals that Amir laughed at (a lot), and looked at us "I don't know how to translate this guys, it's just so funny how they say these hilarious things and don't even smile - I cannot translate this and keep it nearly as funny as how it sounds like in Tajik".  In general, not only could he not translate this because of the usual challenge of translating humour, but there were obviously levels of cultural meaning to words and ideas that are difficult to translate to people from another culture. 
+<!-- One thing that often got lost in translation are the many jokes told by locals that Amir laughed at (a lot), and looked at us "I don't know how to translate this guys, it's just so funny how they say these hilarious things and don't even smile - I cannot translate this and keep it nearly as funny as how it sounds like in Tajik".  In general, not only could he not translate this because of the usual challenge of translating humour, but there were obviously levels of cultural meaning to words and ideas that are difficult to translate to people from another culture. Some of these I tried my best to describe in the last section of this essay "Random stories and fun facts". -->
 
-I wrote down every word that I found to be similar between Tajik and Arabic, as well as Hindi. They are most often pronounced slightly differently, use different wordings, and funnily enough, are written in Cyrillic...  
-
-* Amir: Means prince in both Arabic and Tajik. Interestingly, it means rich in Hindi and Urdu. 
+* Amir: Means prince in both Arabic and Tajik. Interestingly, it also means rich in Hindi and Urdu. 
 * Maalem: Professor in both Tajik and Arabic. the root of the word can also be found in different contexts, similar to arabic "3ilm"
 * Ostad: Professor in Arabic and Tajik 
 * Kitab: Book in Arabic, Tajik, Hindi and Urdu

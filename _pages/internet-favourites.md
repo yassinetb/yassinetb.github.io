@@ -9,7 +9,7 @@ nav: false
 <div class="talks">
     <div class="header-bar">
         <h1>Internet Favourites</h1>
-        <p>Sometimes I stumble upon things on the internet that deeply fascinate me. I always feel an urge to share them with my friends - and often feel disappointed with underwhelming reactions. I've now made peace with the fact that every mind is different - what fascinates me often won't resonate with my friends in the same way, or at least, not at the same time. In the end, our fascination for something is less dependant on its quality than it is dependant on our (unconscious) openness to it at a given time. Oh and that applies to people too. 
+        <p>Sometimes I stumble upon things on the internet that deeply fascinate me. I always feel an urge to share them with my friends - and often feel disappointed with underwhelming reactions. I've now made peace with the fact that every mind is different - what resonates with me often won't resonate with my friends in the same way, or at least, not at the same time. In the end, our fascination for something is less dependant on its quality than it is dependant on our (unconscious) openness to it at a given time. Oh and that applies to people too. 
         <br /><br />
         Who knows - maybe your mind is currently open for some fascination? Maybe you'll find something here...</p> 
     </div>

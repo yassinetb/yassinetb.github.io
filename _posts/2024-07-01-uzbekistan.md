@@ -24,6 +24,7 @@ toc:
     - name: Sex and taboo 
     - name: Children 
     - name: Food 
+  - name: Wedding day, and the bride
   - name: Random stories and fun facts
 ---
 
@@ -116,7 +117,7 @@ Yet their relation to Islam feels very different than the one we have in Arab co
 
 Another interesting point is how common it is to drink alcohol for Uzbek people - certainly, this must have remained from the Soviet influence, but it seems to be totally normalized and not hidden - which is completely different from Arab countries where Alcohol is taboo and hidden (not consumed in public). 
 
-One must note however that Islam, although historically present since the early days of Islam, has seen a very important rise in the recent years, with many Uzbek people becoming increasingly radical and serious in their practice, especially in younger generations - which many Uzbek people do not see from a good eye. Perhaps the best testimony of this is a story we heard from Amir's aunt, *Khola* who is a primary school teacher in Samarkand. She shared with us that the school refused to accept little girls wearing the headscarf, and that they'd always demand the girls take them off. Often, the girls would not accept to take their headscarf away, and the school would put the names of the girls on a "to watch list" (FOOTNOTE: the exact phrasing for this got lost in translation). This would be impossible to do in Morocco for example, where little girls wearing headscarf is totally normal and accepted.  *Khola* certainly agreed with the measure from the school, and expressed clear reluctance to this new wave of "Islamization", even criticizing some of her own family members who, as she says, become overly religious in the last few years. She said: "Uzbekistan doesn't have a tradition of extreme Islam - it is not us - we are open minded and moderate in our practice.". 
+One must note however that Islam, although historically present since the early days of Islam, has seen a very important rise in the recent years, with many Uzbek people becoming increasingly radical and serious in their practice, especially in younger generations - which many Uzbek people do not see from a good eye. Perhaps the best testimony of this is a story we heard from Amir's aunt, *Khola* who is a primary school teacher in Samarkand. She shared with us that the school refused to accept little girls wearing the headscarf, and that they'd always demand the girls take them off. Often, the girls would not accept to take their headscarf away, and the school would put the names of the girls on a "to watch list" <d-footnote>the exact phrasing for this got lost in translation</d-footnote>. This would be impossible to do in Morocco for example, where little girls wearing headscarf is totally normal and accepted.  *Khola* certainly agreed with the measure from the school, and expressed clear reluctance to this new wave of "Islamization", even criticizing some of her own family members who, as she says, become overly religious in the last few years. She said: "Uzbekistan doesn't have a tradition of extreme Islam - it is not us - we are open minded and moderate in our practice.". 
 
 ### Men and Women dynamics 
 
@@ -164,10 +165,6 @@ Indeed, respect, moderation and integrity are not the only goods traits of Uzbek
 
 You should just read again the context of my visit in Uzbekistan: me and 7 other people were invited to a wedding of someone we had never heard of before in our lives! Dilshod Aka, and the entirety of Amir's family were so kind with us during our entire stay and took us around Samarkand at multiple instances despite being busy with the wedding preparation. I even remember Dilshod Aka who *invited all of us* to lunch the day after his wedding. I don't even know what to say.   
 
-### Wedding day, and the bride 
-
-**TO WRITE**
-
 ### Sex and taboo 
 
 Perhaps this is best exemplified by one Amir's favourite thing to say about his family: "I always say that my parents had sex four times in their lives, one for me, two for my two younger brothers, and one for the one who never was born because of my mother's miscarriage". 
@@ -190,16 +187,56 @@ The food was simple, but incredibly tasty and tasteful. The main advantage that 
 
 I'll mainly remember how tasty the tomatoes, onions, cucumbers, beetroots, chickpeas and fruits were. Yes, fruits... Peaches, nectarines, watermelons, melons... All incredibly sweet and delicious! I really did not expect the amount of desert land that Uzbekistan has!
 
+## Wedding day, and the bride
+
+I'll try here to give an overview of how the wedding unfolded, and some interesting details about traditions and norms.
+
+CONTEXT: Groom stays in his family house, and bride moves in with him. 
+
+### Pre-Wedding Day: Men's event 
+
+The first event we were invited to was a men only event, at *8 in the morning*. It's a breakfast, which starts with a series of prayers before people start eating. No loud music, no particular animation nor dancing - just the men on the groom's side having breakfast and chatting men stuff.
+
+I must say I was shocked by the amount of food that was served, on each of the ~8 tables that were ready for guests. I also was shocked by the quantity of meat that was served, at *8 in the morning*. Another thing I was surprised by is the fact that two entire tables were completely empty - I assume they had prepared a seat for every single person they had invited, not accounting for no-shows. I feel like that it's not customary to account for no shows at these celebrations - it seems fine to have way more food than needed, which probably showcases good hosting and wealth I imagine? This is is just my hypothesis. 
+
+The breakfast ceremony was "closed" after one of the older and religious man present at the event gave a little speech with a little prayer. After he put the mic down, every single person stood up and left the room in the span 3 minutes. Waiters started cleaning up immediately after, turning lights down and packing chairs away. I was so surprised by this because we were still seating and eating a bit, and just very confused by how abruptly everyone had left. 
+
+### Wedding Day Part 1 - 11:00: Picking up the groom 
+
+Wedding day started on Tuesday <d-footnote>Yes, Tuesday. I think Dilshod Aka saved a bit of money by having the wedding on a Tuesday instead of usual Saturdays </d-footnote> with all of the groom's family arriving at the groom's house around midday. Men and women separation started at that point - our female friends Aline and Zenne from that point joined the monther and cousin of Amir, while we stayed with the men. We found Dilshod Aka in his bedroom, seating on his bed in a great suit and holding flowers in the middle of a photoshoot. This is one such traditions that really felt odd to me, but 
+
+### Wedding Day Part 2 - 13:00: Lunch with the bride's family, but without the bride
+
+### Wedding Day Part 3 - 15:00: Picking up the bride 
+
+### Wedding Day Part 4 - 17:00: Games? 
+
+### Wedding Day Part 5 - 20:00: Dinner party
+
+### Wedding Day Part 6 - 00:00: Walking back the groom to his family house 
+
+### Spotlight: The speech
+
+Yeah, we had to give a speech.... 
+
+From the beginning of the day, and particularly at the dinner party, people were very curious of our presence in the wedding - we all were very visibly not from there, and that intrigued people - in a good way. I assume this is one of the reasons why we were invited to the wedding: it's rather special and unusual to have foreigners coming to a wedding in Samarkand, and I imagine seen as a very positive and thing - to the credit of the families who are bringing the foreigners who'd be seen as more international and modern.  
+
+### Spotlight: Dancing
+
+### Spotlight: Food
+
+### Spotlight (well, not really): The Bride 
+
 ## Random stories and fun facts
 
 * **Alcohol**: Uzbek people have a specific sign between each other to signify alcohol - they typically do it to ask if the person they are speaking to is interested in a drink. They basically flick their fingers onto the side of their neck twice, always with a cocky smile on their face - and that's Uzbek (universal for them, as they did it to us assuming we'd know this too) sign for alcohol. 
 * **Vogues**: Uzbek people smoke "vogue" cigarettes - these are the super thin ones that are widely seen as "women" cigarettes in all countries I've ever been to. I was so confused by this. 
 * **Toilet Paper**: The toilet paper there has longer single-paper than usual - about 1.5 times the size of the single paper from rolls we are used to see. 
-* **Arians**: Uzbek people love speaking about being Arians, and the fact that no one would have bothered them during the second world war if Nazi Germany had reached their land. 
+* **Aryans**: Uzbek people love speaking about being Aryans, and the fact that no one would have bothered them during the second world war if Nazi Germany had reached their land. 
 * **How to have children**: Perhaps the most curious interaction I had... While at Registan seating next to my (female) friend Zenne, a 50ish year old man seating just next to us asked us where we were from, and immediately after we had answered, asked us if we had children. He had just assumed we were married since we were seating close together and talking in a very comfortable way - the kind of way that only wed couples would speak like here in Uzbekistan. He told us that he was one of the only ones in his surroundings whom had married his wife out of love instead of simply arranged marriage, and he was really proud to tell us that all his 3 children also married out of love. Amir was doing most of the translation at this point because he got a bit in depth into his stories and of course did not speak a word of English. At some point, he asked me apart from the rest of the group (with Amir for translation) and told me about a specific prayer that I should do before doing the bedroom deed in order to be able to have children, and assured me that he was certain we would manage to have children if we do so. This probably was one of the most special interaction of my life. I am neither married nor dating Zenne, nor am I typically keen on biology lessons from strangers in a language I don't understand, but his kindness, authenticity, and genuine good wishes and intentions were just extraordinary. I most likely will never cross path again with this man, but I pray for the his wellness and prosperity, as well as that of his entire family   
 * **Hamid El Shaeri and Snoop Dog**: While virtually no one could speak English nor had left the country, they certainly knew their way around music. Snoop Dog was blasting in one of Amir's cousin's car - a rather religious cousin of course - I hope he didn't know what the lyrics were about... I curiously heard at several instances Hamid El Shaeri, and several other popular arab songs. I hadn't expected that. 
-*  **Kidneys**: Uzbek people have this urban legend that "Indian people have 4 kidneys, because if you ever need a kidney, you go get it in India". This is what one of Amir's cousins said to Ayush when Ayush invited him to visit India... "I don't need to go to India because I have the 2 kidneys I need - why would I go there if not for Kidneys?"
-* **Surnames**: The first grandson of the family gets to create his own lineage, which one does by taking the first name of your grandfather as last name. Amir is the first grandson of his family, so he indeed has a different surname than his own father and brothers. His surname is *Hirojedenov*, because his grandfather's first name was Hirojeden. His brothers have the same last name as his father - *Djuarev*. 
+*  **Kidneys**: In Uzbekistan, India is for some reason known for Kindey transplants, which created an urban legend that "Indian people have 4 kidneys". Ayush, wanting to be nice, invited one of Amir's cousin to visit India, to which he responded... "I don't need to go to India because I have the 2 kidneys I need - why would I go there if not for kidneys?"
+* **Surnames**: The first grandson of the family gets to create his own "lineage", which one does by taking the first name of your grandfather as last name. Amir is the first grandson of his family, so he indeed has a different surname than his own father and brothers. His surname is *Hirojedenov*, because his grandfather's first name was Hirojeden. His brothers have the same last name as his father - *Djuarev*. 
 * **Surat Yassine**: In Registan, I visited the Madrasa of Ulug Beg (famous astronomer and leader in Samarkand, grandson of Timur) and found a massive copy of the Quran, written in stunning caligraphy. It was open on Surat' Yassine. I got emotional... 
 * **Happiness**: Adding "jon" at the end of names means happiness. Amir's full name is Amirjon. I liked to call myself Yassinejon during the trip... 
 * **Older brother**: "Aka" means older brother in Uzbekistan, and they use it at all times - for respect. Amir calls all of his older cousin by their first name and "aka" at the end. This is why I wrote "Dilshod Aka" (the groom), and not "Dilshod" which is his real name. One can also comnunicate with strangers like this - calling them "Aka". Since you asked, they say "ouka" for "litte brother". 

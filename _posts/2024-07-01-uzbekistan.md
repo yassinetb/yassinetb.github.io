@@ -34,7 +34,7 @@ In June 2024, I had the chance to travel to Uzbekistan for 10 days, visit the ci
 
 Before jumping in, I'd like to extend my sincerest gratitude to Amir for organizing this trip, opening us the door to his loving family and translating the many idiosyncrasies of the Uzbek society. I'd also like to thank Dilshod Aka for having us at his wedding, taking care of us throughout the entire trip and always entertaining us with jokes and good spirit - I wish him and his *Keline* all the best for the life they are starting together. 
 
-{% include figure.liquid loading="eager" path="assets/img/trio_uzbek.jpeg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/uzbekistan/trio_uzbek.jpeg" class="img-fluid rounded z-depth-1" %}
 
 ## Prelude - an Ode to Friendship, Hospitality and Internationalization
 
@@ -189,49 +189,77 @@ I'll mainly remember how tasty the tomatoes, onions, cucumbers, beetroots, chick
 
 ## Wedding day, and the bride
 
-I'll try here to give an overview of how the wedding unfolded, and some interesting details about traditions and norms.
+I'll try here to give an overview of how the wedding unfolded, and some interesting details about traditions and norms. 
 
-CONTEXT: Groom stays in his family house, and bride moves in with him. 
+{% include figure.liquid loading="eager" path="assets/img/uzbekistan/group.jpeg" class="img-fluid rounded z-depth-1" %}
 
 ### Pre-Wedding Day: Men's event 
 
 The first event we were invited to was a men only event, at *8 in the morning*. It's a breakfast, which starts with a series of prayers before people start eating. No loud music, no particular animation nor dancing - just the men on the groom's side having breakfast and chatting men stuff.
 
-I must say I was shocked by the amount of food that was served, on each of the ~8 tables that were ready for guests. I also was shocked by the quantity of meat that was served, at *8 in the morning*. Another thing I was surprised by is the fact that two entire tables were completely empty - I assume they had prepared a seat for every single person they had invited, not accounting for no-shows. I feel like that it's not customary to account for no shows at these celebrations - it seems fine to have way more food than needed, which probably showcases good hosting and wealth I imagine? This is is just my hypothesis. 
+I must say I was surprised by the amount of food that was served, on each of the ~8 tables that were ready for guests. I also was very surprised by the quantity of meat that was served, at *8 in the morning*. Another big surprise by is the fact that two entire tables were completely empty - I assume they had prepared a seat for every single person they had invited, not accounting for no-shows. I feel like that it's not customary to account for no shows at these celebrations - it seems fine to have way more food than needed, which, I imagine, showcases generous hosting and wealth?  
 
 The breakfast ceremony was "closed" after one of the older and religious man present at the event gave a little speech with a little prayer. After he put the mic down, every single person stood up and left the room in the span 3 minutes. Waiters started cleaning up immediately after, turning lights down and packing chairs away. I was so surprised by this because we were still seating and eating a bit, and just very confused by how abruptly everyone had left. 
 
+And that was it - the party was literally closed. And we all went back home.
+
 ### Wedding Day Part 1 - 11:00: Picking up the groom 
 
-Wedding day started on Tuesday <d-footnote>Yes, Tuesday. I think Dilshod Aka saved a bit of money by having the wedding on a Tuesday instead of usual Saturdays </d-footnote> with all of the groom's family arriving at the groom's house around midday. Men and women separation started at that point - our female friends Aline and Zenne from that point joined the monther and cousin of Amir, while we stayed with the men. We found Dilshod Aka in his bedroom, seating on his bed in a great suit and holding flowers in the middle of a photoshoot. This is one such traditions that really felt odd to me, but 
+Wedding day started on Tuesday <d-footnote>Yes, Tuesday. I think Dilshod Aka saved a bit of money by having the wedding on a Tuesday instead of usual Saturdays </d-footnote> with all of the groom's family arriving at the groom's house around midday. Men and women separation started at that point - our female friends Aline and Zenne from that point joined the monther and cousin of Amir, while we stayed with the men. We found Dilshod Aka in his bedroom, seating on his bed in a great suit and holding flowers in the middle of a photoshoot. This is one such traditions that really felt odd to me, but was interesting to see. There is some sacrality over that bedroom, as it is the "marital bedroom", where the bride and the groom move into on wedding night. Indeed, it is most common in Uzbekistan for the bride to move in with the family of the groom, where (if they can afford it), the newly wed couple will have their own little part of the house. Houses are also built as such, with several different "subhouses" rather than one big house where all rooms are directly communicating. 
+
+We waited for the groom to finish his photoshoot, and got out of the house where we found three (rental) luxury cars waiting to take the groom and the closest family to the lunch ceremony.  
 
 ### Wedding Day Part 2 - 13:00: Lunch with the bride's family, but without the bride
 
+This is the first ceremony where the family of the groom and the bride meet. It is fully organized (and paid for) by the bride, and is meant to be a lunch for the two family to meet. Traditionally, it is done at the house of the family, but since they live in a not-so-big appartment, it was not possible and they had to do it at a ceremony hall. Interestingly, while vritually the entire family of the bride is present at the lunch, *the bride is not present*. She was still at home, waiting to get picked up by the groom, and taken care of by her mother, grandmother and sister (closest women of the family).  
+
+The lunch felt similar to the men's breakfast I mentionned earlier, with opening prayers, not-so-eventful lunch and closing prayers that prompted everyone to leave the place. The closing was however a bit more joyful than at the men's breakfast - there was music and we (the groom's close family) danced to accompany him out and go pick up the bride!
+
 ### Wedding Day Part 3 - 15:00: Picking up the bride 
+
+This was one of the more special moments of the day. We arrived near the appartment of the bride, where a great little band was playing music (which didn't stop playing until we left with the bride), and sloooowly, after extensive dancing, started going up to accompany Dilshod Aka to get his Keline. While walking up the stairs, we sang different things that essentially were wishing "good life to the newly-weds", and slowly entered the appartment of the bride, where we found her in a beautiful white wedding dress and with a veil on their face. The following 20 minutes were full of little traditional gestures and prayers which I would not be able to appropriately narate here, but long story short, the close family of the groom was here (men and women), as well as the close family of the bride. Interestingly, the father was not there, he had stayed downstairs - as if his daughter now had to be left to her husband. 
+
+We then accompanied them downstairs and danced for them while they got in the car. 
 
 ### Wedding Day Part 4 - 17:00: Games? 
 
+This part of the ceremony was perhaps the strangest one for me, but maybe the most fun. We all arrived in a little hall that looked like a restaurant where the close (young) friends and family of both the groom and the bride were sitting, awaiting some desert and refreshment fruits. In front of us, were the couple, seating next to one another in their wedding outfit. A few minutes in, a man shows up, takes up a microphone and starts talking in Tajik. Amir explains to us that it's game time, and that this man will animate the games in a tv-game-show fashion. The animator calls 6 close friends fo the bride, and 6 close friends of the groom in the center of the little hall, and explains them the rules of the game: one has to start counting by saying a number, and the person on the left continues the count, except if the reached number is a multiple of 3, in which case the person should say a compliment to the groom or the bride. It was honestly so cute, and a fun way to get families/friends from both sides to interact with one another.  
+
 ### Wedding Day Part 5 - 20:00: Dinner party
+
+{% include figure.liquid loading="eager" path="assets/img/uzbekistan/hall.jpeg" class="img-fluid rounded z-depth-1" %}
+
+The dinner party took place in a big hall, with about 20 tables set (~14 seats each). We had a lot of fun, ate really well, and danced a lot. As expected, men and women were seating at separate tables, albeit in the same hall. The groom and the bride were sitting at the back of the hall alone, in elevation and facing everyone <d-footnote>Imagine where Dumbeldore would be seating, facing all students in Hogwarts. It was the same seating arrangement. </d-footnote>. The music really was great, with a fantastic band playing Uzbek, Russian, and even Arab standard songs - perfect music for dancing. A few notable highlights was the cousin of Dilshod Aka (groom) putting her kids on stage to sing a song - what an amazing sight at a wedding... To see four ~5 year old kids singing a song for the wedding of their uncle! Really beautiful. Another cool highlight is that Dilshod Aka and his Keline recorded a professional video of their love story, set in different settings, of the both of them holding hands and walking together through different things, laughing, chatting etc... They projected this on a giant screen at the wedding, as well as photos of the two of them... I had never seen such "to your face" images of the couple - especially since the bride is so private and preserved throughout the wedding! 
 
 ### Wedding Day Part 6 - 00:00: Walking back the groom to his family house 
 
-### Spotlight: The speech
+{% include figure.liquid loading="eager" path="assets/img/uzbekistan/heart.jpeg" class="img-fluid rounded z-depth-1" %}
+
+After leaving the hall around midnight, we took the cars in the direction of Dilshod Aka's house - the same house we had started the day at. Except we parked about 500m away from it, and started a special ceremony, where we lit a giant heart of fire, and sang out loud untill we reached his house. His wife was in the car the entire time, and following the ceremony, untill she reached the house and got out towards the marital house. 
+
+### Spotlight 1: The speech
 
 Yeah, we had to give a speech.... 
 
 From the beginning of the day, and particularly at the dinner party, people were very curious of our presence in the wedding - we all were very visibly not from there, and that intrigued people - in a good way. I assume this is one of the reasons why we were invited to the wedding: it's rather special and unusual to have foreigners coming to a wedding in Samarkand, and I imagine seen as a very positive and thing - to the credit of the families who are bringing the foreigners who'd be seen as more international and modern.  
 
-### Spotlight: Dancing
+So the animator of the evening came to us and asked us (in Tajik - so Amir had to translate) to give a speech. Just 2-3 of us to say a few words about what we thought about the wedding, saying thank you to the family etc.. And that's what we did! I actually started, Ayush continued, Zenne went on, and finally, the animator took the microphone and gave it to Kevin (chinese-american) - literally calling him "China, speech?". Each of us spoke for about 30 seconds to extend our congratulations to the couple and thankfulness to the family, and admiration for Uzbek hospitality. All of this in English, and we knew that most people wouldn't understand 5 words of what we'd say. So many people were filming us and looking at us in a very curious way. It really felt like we were the attraction of the wedding and people were amazedcby our presence - and they were happy, so it was great :)  
 
-### Spotlight: Food
+### Spotlight: The Cake
 
-### Spotlight (well, not really): The Bride 
+What in my opinion was the most touching tradition at the wedding was the moment the couple cut the cake. It is tradition that the groom cuts cake and feeds it directly into the mouth of the bride's family, and vice verca - and that was extremely beautiful and elegant. 
+
+### Spotlight (well, not really) 2: The Bride
+
+None of the men (including Amir, Dilshod Aka's cousin) heard the voice or made eye contact with the bride during the entire ceremony, and that is characteristic of Uzbek tradition. Once married, the girl is preserved and rather strictly under the responsibility of the husband, and it is very inappropriate to engage in any contact with her as a man from the groom's family. For women, it was better, but they still had very little interaction with her, eventhough they took her all the way to her bedroom in the marital house (which we, men, did not do). I imagine that she was very shy and didn't speak much during the wedding, and I also imagine that it's seen as some form of purity and innocence to not be extravagent for a women on her wedding day. I remember the fact that she had her hand on her heart, smiled and looked down for pretty much the entirety of her public appearances, including when she was posing for photos with family during the ceremony.... 
 
 ## Random stories and fun facts
 
 * **Alcohol**: Uzbek people have a specific sign between each other to signify alcohol - they typically do it to ask if the person they are speaking to is interested in a drink. They basically flick their fingers onto the side of their neck twice, always with a cocky smile on their face - and that's Uzbek (universal for them, as they did it to us assuming we'd know this too) sign for alcohol. 
 * **Vogues**: Uzbek people smoke "vogue" cigarettes - these are the super thin ones that are widely seen as "women" cigarettes in all countries I've ever been to. I was so confused by this. 
 * **Toilet Paper**: The toilet paper there has longer single-paper than usual - about 1.5 times the size of the single paper from rolls we are used to see. 
+
+{% include figure.liquid loading="eager" path="assets/img/uzbekistan/toilet.jpeg" class="img-fluid rounded z-depth-1" %}
 * **Aryans**: Uzbek people love speaking about being Aryans, and the fact that no one would have bothered them during the second world war if Nazi Germany had reached their land. 
 * **How to have children**: Perhaps the most curious interaction I had... While at Registan seating next to my (female) friend Zenne, a 50ish year old man seating just next to us asked us where we were from, and immediately after we had answered, asked us if we had children. He had just assumed we were married since we were seating close together and talking in a very comfortable way - the kind of way that only wed couples would speak like here in Uzbekistan. He told us that he was one of the only ones in his surroundings whom had married his wife out of love instead of simply arranged marriage, and he was really proud to tell us that all his 3 children also married out of love. Amir was doing most of the translation at this point because he got a bit in depth into his stories and of course did not speak a word of English. At some point, he asked me apart from the rest of the group (with Amir for translation) and told me about a specific prayer that I should do before doing the bedroom deed in order to be able to have children, and assured me that he was certain we would manage to have children if we do so. This probably was one of the most special interaction of my life. I am neither married nor dating Zenne, nor am I typically keen on biology lessons from strangers in a language I don't understand, but his kindness, authenticity, and genuine good wishes and intentions were just extraordinary. I most likely will never cross path again with this man, but I pray for the his wellness and prosperity, as well as that of his entire family   
 * **Hamid El Shaeri and Snoop Dog**: While virtually no one could speak English nor had left the country, they certainly knew their way around music. Snoop Dog was blasting in one of Amir's cousin's car - a rather religious cousin of course - I hope he didn't know what the lyrics were about... I curiously heard at several instances Hamid El Shaeri, and several other popular arab songs. I hadn't expected that. 
@@ -240,4 +268,5 @@ From the beginning of the day, and particularly at the dinner party, people were
 * **Surat Yassine**: In Registan, I visited the Madrasa of Ulug Beg (famous astronomer and leader in Samarkand, grandson of Timur) and found a massive copy of the Quran, written in stunning caligraphy. It was open on Surat' Yassine. I got emotional... 
 * **Happiness**: Adding "jon" at the end of names means happiness. Amir's full name is Amirjon. I liked to call myself Yassinejon during the trip... 
 * **Older brother**: "Aka" means older brother in Uzbekistan, and they use it at all times - for respect. Amir calls all of his older cousin by their first name and "aka" at the end. This is why I wrote "Dilshod Aka" (the groom), and not "Dilshod" which is his real name. One can also comnunicate with strangers like this - calling them "Aka". Since you asked, they say "ouka" for "litte brother". 
+* **Discussing Paganini in Uzbekistan**: Amir's cousin is a great musician who studied at the conservatoire in Samarkand, and played multiple instruments. He was classically trained, and told me about many of his favourite composers, including a specific "one string etude" that he had played on the violin by the infamous Paganini. I was completely shocked to have this conversation with him - the same person who had been blasting Snoop Dog full volume in his car, dancing (really well) like there was no tomorrow at the wedding, and professing the most inappropriate (but funny) jokes during the day. Shaxboz, I hope we get to play music together one day. 
 * **Kunte**: The number one insult between boys is "Kunte" - meaning "faggot". Obviously, Uzbekistan is deeply homophobic. Although Amir already brought two lesbian friends which he says was fine - though he said it would have been very different if it were two gay men. 

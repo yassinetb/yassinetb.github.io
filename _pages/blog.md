@@ -18,7 +18,7 @@ pagination:
 <div class="talks">
     <div class="header-bar">
         <h1>Blog</h1>
-        <p>I write down random thoughts from time to time. You can also find these on <a href="https://medium.com/@ytbenchekroun">Medium</a>.</p>
+        <p>I write down random thoughts from time to time. Maybe you enjoy some of them? 
     </div>
 </div>
 

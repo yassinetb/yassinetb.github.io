@@ -32,8 +32,6 @@ toc:
   - name: Random stories and fun facts
 ---
 
-** THIS IS A WORK IN PROGRESS. PLEASE FEEL FREE TO REPORT TYPOS ETC... **
-
 In June 2024, I had the chance to travel to Uzbekistan for 10 days, visit the cities of Samarkand and Bukhara, and most importantly, extensively interact with my friend Amir's Uzbek family and attend the wedding of his cousin - *Dilshod Aka*. This trip was nothing short of extraordinary, and I try here to give an overview of why. I attempted in this blogpost to synthetize the most interesting stories and observations about my stay in Uzbekistan - a country with rich historical relevance, strong culture and traditions, and most importantly, a country still very preserved from the cultural dilution caused by globalization and mass tourism. 
 
 Before jumping in, I'd like to extend my sincerest gratitude to Amir for organizing this trip, opening us the door to his loving family and translating the many idiosyncrasies of the Uzbek society. I'd also like to thank Dilshod Aka for having us at his wedding, taking care of us throughout the entire trip and always entertaining us with jokes and good spirit - I wish him and his *Keline* all the best for the life they are starting together. 

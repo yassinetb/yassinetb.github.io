@@ -25,7 +25,7 @@ toc:
     - name: Food 
   - name: Wedding day
   - subsections:
-    - name: Chronological turn of celebrations
+    - name: Chronological tale of the celebrations
     - name: Spotlight 1 - The Speech 
     - name: Spotlight 2 - The Cake 
     - name: Spotlight (well, not really) 3 - The Bride
@@ -34,7 +34,7 @@ toc:
 
 In June 2024, I had the chance to travel to Uzbekistan for 10 days, visit the cities of Samarkand and Bukhara, and most importantly, extensively interact with my friend Amir's Uzbek family and attend the wedding of his cousin - *Dilshod Aka*. This trip was nothing short of extraordinary, and I try here to give an overview of why. I attempted in this blogpost to synthetize the most interesting stories and observations about my stay in Uzbekistan - a country with rich historical relevance, strong culture and traditions, and most importantly, a country still very preserved from the cultural dilution caused by globalization and mass tourism. 
 
-Before jumping in, I'd like to extend my sincerest gratitude to Amir for organizing this trip, opening us the door to his loving family and translating the many idiosyncrasies of the Uzbek society. I'd also like to thank Dilshod Aka for having us at his wedding, taking care of us throughout the entire trip and always entertaining us with jokes and good spirit - I wish him and his *Keline* all the best for the life they are starting together. 
+Before jumping in, I'd like to extend my sincerest gratitude to Amir for organizing this trip, introducing us to his loving family, and translating the many idiosyncrasies of the Uzbek society. I'd also like to thank Dilshod Aka for having us at his wedding, taking care of us throughout the entire trip, and always entertaining us with jokes and good spirit - I wish him and his *Kelin* <d-footnote>Refers to newly-wed woman. More info on this in the "Random stories and fun facts" section of the blogpost! </d-footnote> all the best for the life they are starting together. 
 
 {% include figure.liquid loading="eager" path="assets/img/uzbekistan/trio_uzbek.jpeg" class="img-fluid rounded z-depth-1" %}
 
@@ -48,11 +48,11 @@ Amir's cousin, Dilshod Aka, has finally found <d-footnote> finding her was a lon
 
 In the end, we were a very **international** group of 8 foreigners (as the mexicans say, a group of 8 *gringos*) present at the wedding: two Americans, one Dutch, one German, one Moroccan (me), one Indian, one Chinese-American and one Swiss. And of course, we were with our Uzbek-American host Amir during the entire trip, who took us around and translated the many conversations we had with his family members and with different locals we met throughout our journey.  
 
-Now that one has the context about my presence at this wedding, let's dig into specific aspects of interest in the way of life for Uzbek people. 
+Now that the context of my presence at this wedding has been presented, let's dig into what this trip was like! 
 
 ## Context and history 
 
-Some of the stories and observations I will discuss are best understood with some historical context in mind. However, if you know the situation of the country, or if you don't really care about history, feel free to ignore and move on to the next section. 
+Some of the stories and observations I will discuss are best understood with some historical context in mind. However, if you know the situation of the country, or if you don't really care about history, feel free to skip this part and move on to the next section. 
 
 ### Between Persia, the Mongols and USSR
 
@@ -195,7 +195,7 @@ I'll try here to give an overview of how the wedding unfolded, and some interest
 
 {% include figure.liquid loading="eager" path="assets/img/uzbekistan/group.jpeg" class="img-fluid rounded z-depth-1" %}
 
-### Chronological turn of celebrations
+### Chronological tale of the celebrations
 
 #### Pre-Wedding Day - Men’s event 
 
@@ -257,7 +257,7 @@ The cake cutting and eating tradition was perhaps the most touching part of the 
 
 ### Spotlight (well, not really) 3 - The Bride
 
-None of the men (including Amir, Dilshod Aka's cousin) heard the voice or made eye contact with the bride during the entire ceremony, and that is characteristic of Uzbek tradition. Once married, the girl is preserved and rather strictly under the responsibility of the husband, and it is very inappropriate to engage in any contact with her as a man from the groom's family. For women, it was better, but they still had very little interaction with her, eventhough they took her all the way to her bedroom in the marital house (which we, men, did not do). I imagine that she was very shy and didn't speak much during the wedding, and I also imagine that it's seen as some form of purity and innocence to not be extravagent for a women on her wedding day. I remember the fact that she had her hand on her heart, smiled and looked down for pretty much the entirety of her public appearances, including when she was posing for photos with family during the ceremony....
+None of the men (including Amir, Dilshod Aka's direct cousin) heard the voice or made eye contact with the bride during the entire ceremony, and that is characteristic of Uzbek tradition. Once married, the bride is preserved and rather strictly under the responsibility of the husband, and it is very inappropriate to engage in any contact with her as a man from the groom's family. For women, it was better, but they still had very little interaction with her, eventhough they took her all the way to her bedroom in the marital house (which we, men, did not do). I imagine that she was very shy and didn't speak much during the wedding, and I also imagine that it's seen as some form of purity and innocence to not be extravagent for a women on her wedding day. I recall always seeing her, during the entire day of celebration, with her hand on her heart, smiling, and looking down. This also applies to every picture she had to pose for during the ceremony....
 
 This felt very different than most weddings I have experienced in my life - where the bride is the center of attention and should interact and be celebrated by people around her. Here, it felt like the bride was indeed the center of attention - but in a weird way: while pictures of her were projected onto a big screen for everyone to look at, no hugging or talking allowed - not even to congratulate her or say hi!  
 
@@ -276,8 +276,9 @@ This felt very different than most weddings I have experienced in my life - wher
 * **Surnames**: The first grandson of the family gets to create his own "lineage", which one does by taking the first name of your grandfather as last name. Amir is the first grandson of his family, so he indeed has a different surname than his own father and brothers. His surname is *Hirojedenov*, because his grandfather's first name was Hirojeden. His brothers have the same last name as his father - *Djuarev*. 
 * **Surat Yassine**: In Registan, I visited the Madrasa of Ulug Beg (famous astronomer and leader in Samarkand, grandson of Timur) and found a massive copy of the Quran, written in stunning caligraphy. It was open on Surat' Yassine. I got emotional... 
 * **Happiness**: Adding "jon" at the end of names means happiness. Amir's full name is Amirjon. I liked to call myself Yassinejon during the trip. 
+* **Kelin**: We always refered to Dilshod Aka's bride as "Kelin". I looked up the word Kelin online, and found the following definition - I thought I'd share it directly here: *Literal translation: “daughter-in-law”, kelin, or kelinchak, (Turkmen gelin) is a newlywed woman who moves with the family of her husband and lives there until she advances to a higher position in the informal family hierarchy or the parents-in-law decide otherwise. Kelins carry out all the household chores in the in-law’s family, such as housekeeping, childcare, buying groceries, cooking, cleaning, serving meals and tea, taking care of her husband and his family, while paying due respect to all family members and following an austere code of conduct and social rituals.* While this definition doesn't paint a joyful picture of the bride's life, it is concordant with the reality of Uzbek mariages. It however seems to be an accepted norm which women happily follow. But how would I know if women indeed happily follow these norms, since the only woman I actually discussed with was Amir's aunt, who is from a different generation and clearly thought women's position in Uzbek society was nothing to be concerned about. She did acknowledge it was different to many other places in the world (which she had indirectly heard of), but not something problematic in any way. 
 * **Older brother**: "Aka" means older brother in Uzbekistan, and they use it at all times - for respect. Amir calls all of his older cousin by their first name and "aka" at the end. This is why I wrote "Dilshod Aka" (the groom), and not "Dilshod" which is his real name. One can also comnunicate with strangers like this - calling them "Aka". Since you asked, they say "ouka" for "litte brother". 
 * **Discussing Paganini in Uzbekistan**: Amir's cousin is a great musician who studied at the conservatoire in Samarkand, and played multiple instruments. He was classically trained, and told me about many of his favourite composers, including a specific "one string etude" that he had played on the violin by the infamous Paganini. I was completely shocked to have this conversation with him - the same person who had been blasting Snoop Dog full volume in his car, dancing (really well) like there was no tomorrow at the wedding, and professing the most inappropriate (but funny) jokes during the day. Shaxboz, I hope we get to play music together one day. 
-* **Kunte**: The number one insult between boys is "Kunte" - meaning "faggot". Obviously, Uzbekistan is deeply homophobic. Although Amir already brought two lesbian friends which he says was not a problem, he acknowledges it would have been very different if it were two gay men. 
+* **Kunte**: The number one insult between boys is "Kunte" - meaning "faggot". Unsurprisingly, Uzbekistan is deeply homophobic. Although Amir already brought two lesbian friends which, he said, was not a problem, he acknowledges it would have been very different if it were two gay men. 
 * **Throwing money on wedding day**: At several instances during the day, people threw large amount of small bills (e.g. 1000 SOM, ~0.1 USD), and the kids of the family (or the kids of the neighberhood when we picked up the bride) would be around picking them up! 
-* **Language fluidity**: A Turkish friend of ours spoke Turkish to someone who replied to her in Uzbek at a restaurant - and they understood each other. A taxi driver spoke a mix of Tajik, Russian and Uzbek to people who spoke to him in Azerbaidji. There are just so many different languages in the region, yet people often understand each other and manage to communicate!
+* **Language fluidity**: A Turkish friend of ours spoke Turkish to someone who replied to her in Uzbek at a restaurant - and they understood each other. A taxi driver spoke a mix of Tajik, Russian and Uzbek to people who spoke to him in Azerbaidji. There are just so many different languages in the region, yet people understand each other and manage to communicate!

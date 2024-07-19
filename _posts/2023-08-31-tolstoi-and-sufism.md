@@ -5,6 +5,7 @@ show: true
 category: open
 show: true
 related_publications: false
+featured: true
 date: 2023-08-31
 toc:
   - name: Love chez Tolstoy

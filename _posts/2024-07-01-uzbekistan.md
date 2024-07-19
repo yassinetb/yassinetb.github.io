@@ -20,7 +20,6 @@ toc:
     - name: Men and Women dynamics 
     - name: Social classes, and attitude towards money
     - name: Hospitality
-    - name: Sex and taboo 
     - name: Children 
     - name: Food 
   - name: Wedding day

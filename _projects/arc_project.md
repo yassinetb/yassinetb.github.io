@@ -3,7 +3,7 @@ layout: distill
 title: Building and ARC task-generator with Reinforcement Learning
 description: 
 img: assets/img/ARC.png
-importance: 1
+importance: 2
 category: open
 show: true
 related_publications: false

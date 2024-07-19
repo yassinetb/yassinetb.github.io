@@ -7,7 +7,7 @@ importance: 1
 category: open
 show: true
 related_publications: false
-date: 2024-19-07 00:00:00 UTC
+date: 2024-07-19 00:00:00 UTC
 duration: 3-6 months
 type:
     - Short project

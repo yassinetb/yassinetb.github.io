@@ -8,7 +8,7 @@ category: open
 show: true
 related_publications: false
 date: 2024-01-01 00:00:00 UTC
-duration: 3-6 months
+duration: 3 months
 type:
     - Thesis
     - Short project

@@ -24,6 +24,8 @@ nav: false
 
 * [Could a Neuroscientist Understand a Microprocessor?](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268). Easily one of my top 5 favourite papers of all time. The idea is so obvious yet so clever: could we use modern Neuroscience methodologies to understand a known "complex-distributed system": a microprocessor. Turns out that (rather unsurprisingly if you asked me) - modern Neuroscience techniques (connectomics, ablation studies etc...) are rather poor tools to get good insights into how a microprocess works. Surely they must better suited to understand the brain - a orders-of-magnitude more compelx system? Lol.
 
+* [Carlos Kleiber Conducting Tristan Und Isolde](https://www.youtube.com/watch?v=-SeaOKwFBYg) This is a mystical (you'll understand my use of this word once you look at the vid) recording of Kleiber conducting Tristan Und Isolde's Liebestod from the pit. Luckily, we also have the same recordings for the Love Duet and the Prelude - and they're equally fantastic. Watching Kleiber conduct is just magical - the music flows from him in such a unique way, and every single hand gesture, facial expression, and body movement embodies the character and direction of the music. And it all looks so effortless, so natural. He's everything I dream of when it comes to orchestra conducting. 
+
 * [Peter Thiel's Religion - David Perell](https://perell.com/essay/peter-thiel/). Peter Thiel is certainly controversial character - which, regardless of one's opinion on him, makes him interesting to looking into. This is what David Perell did, and what he found led him in a completely different path - that of Rene Girard and his famour Mimetic Theory.  
 
 * [You and Your Research - Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html). Read this from a recommendation by Jimmy before the start of my PhD. Inspiring read that one should go back to very frequently while conductin research. 
@@ -32,7 +34,7 @@ nav: false
 
 * [Nadia Boulanger - Par Bruno Monsaingeon](https://www.youtube.com/watch?v=uLlHtCttSE8) Easily the most influential piano teacher of the past century, this documentary, by the fantastic Bruno Monsaigeon pictures her as well as many of her great students discussing music, and showcasing her genius. 
 
-* [Sviatosalav Richter - Par Bruno Monsaingeon](https://www.youtube.com/watch?v=ZNmb7It0G7c) A documentary that's very dear to me on Richter, one of my all time favourite artists. 
+* [Sviatoslav Richter - Par Bruno Monsaingeon](https://www.youtube.com/watch?v=ZNmb7It0G7c) A documentary that's very dear to me on Richter, one of my all time favourite artists. 
 
 * [The Bitter Lessons - Richard Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) Gotta love the plain HTML of this article - somewhat funny given the topic. Every scientist should read this - especially anyone interested in computing. This is what made me understand that Neuromorphic Engineering, as fascinating and beautiful as it was, wasn't gonna make the cut.  
 

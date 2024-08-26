@@ -16,6 +16,7 @@ nav: false
 <br />
 
 - [ ] Add a "My Friends On The News" section to brag about the achievements of my friends.
+- [ ] Add some kind of subscription for the blog 
 - [ ] Expand the "Internet Favourites" section, and most importantly, enable users to sort by Tag, or maybe by date at which I added it. I think this would be cool if the section gets bigger. 
 - [ ] Fix SEO of my blog.
 - [ ] Add a subscribe section for my blog or for news. 

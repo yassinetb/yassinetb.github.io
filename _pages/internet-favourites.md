@@ -26,6 +26,8 @@ nav: false
 
 * [Carlos Kleiber Conducting Tristan Und Isolde](https://www.youtube.com/watch?v=-SeaOKwFBYg) This is a mystical (you'll understand my use of this word once you look at the vid) recording of Kleiber conducting Tristan Und Isolde's Liebestod from the pit. Luckily, we also have the same recordings for the Love Duet and the Prelude - and they're equally fantastic. Watching Kleiber conduct is just magical - the music flows from him in such a unique way, and every single hand gesture, facial expression, and body movement embodies the character and direction of the music. And it all looks so effortless, so natural. He's everything I dream of when it comes to orchestra conducting. 
 
+* [Paul Graham - How to Write Usefully](https://www.paulgraham.com/useful.html) Paul Graham is one of the most compelling writers of this generation. This is one essay of his where he teaches us about writing. An essay I surely should go through frequently given my growing love for writing.  
+
 * [Peter Thiel's Religion - David Perell](https://perell.com/essay/peter-thiel/). Peter Thiel is certainly controversial character - which, regardless of one's opinion on him, makes him interesting to looking into. This is what David Perell did, and what he found led him in a completely different path - that of Rene Girard and his famour Mimetic Theory.  
 
 * [You and Your Research - Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html). Read this from a recommendation by Jimmy before the start of my PhD. Inspiring read that one should go back to very frequently while conductin research. 

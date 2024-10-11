@@ -1,9 +1,8 @@
 ---
 layout: distill
 title:  How to Hire PhD Graduates?
-show: true
+show: false
 category: open
-show: true
 related_publications: false
 date: 2024-07-02
 toc:

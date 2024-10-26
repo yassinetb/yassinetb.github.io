@@ -6,6 +6,7 @@ category: open
 show: true
 related_publications: false
 date: 2024-05-20
+featured: true
 toc:
   - name: Choosing Your Research
   - subsections:

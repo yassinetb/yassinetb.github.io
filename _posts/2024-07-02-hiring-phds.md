@@ -1,6 +1,6 @@
 ---
 layout: distill
-title:  How to Hire PhD Graduates?
+title:  How to make conversation with a PhD student?
 show: false
 category: open
 related_publications: false
@@ -67,7 +67,7 @@ At the end of the day, the real superpower that all PhD student must acquire is 
 
 "Creatives have two masters: the art and the medium. Only serve the art, and you won’t find an audience. Only serve the medium, and your work will lose its soul. It’s the dance between them that makes a successful creative." <d-footnote> Quote by the wonderful David Perell" </d-footnote>. 
 
-PhD students must communicate their research - they must publish papers, go to conferences, discuss it with peers, and get their work out. It's also the way for them to meet people to work with, but more on that later. The way they do is extremely individual, and can show a lot about their way of doing things 
+PhD students must communicate their research - they must publish papers, go to conferences, discuss it with peers, and get their work out. It's also the way for them to meet people to work with, but more on that later. The way they do is extremely individual, and can show a lot about their way of doing things. 
 
 **The different styles of doing it**
 

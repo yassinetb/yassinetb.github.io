@@ -79,7 +79,7 @@ This is what works in AI, and what works in the world - humans always try to sig
 
 Obviously, the other side of the coin is the well known Goodhart Law "When a metric becomes the target, it stops being a good metric". And that applies to ARC too, even if it was specifically designed to avoid overfitting <d-footnote>the current SOTA solutions from MindsAI uses a fine tuned transformer on a ton of algorithmically generated ARC-like tasks and all the tricks in the books to optimize performance on transformers is clearly overfitting to ARC. </d-footnote>  
 
-Ultimately, there is no benchmark that cannot be gamed with enough time an effort. This is why it's important to use multiple metrics, and to keep on updating the metrics. Most importantly, it's important to regularly ask ourselves the question, as a community, company or organization - what do we really want to achieve? And how would we go about measuring this? 
+Ultimately, there is no benchmark that cannot be gamed with enough time an effort. This is why it's important to use multiple metrics, and to keep on updating the metrics. Most importantly, it's important to regularly ask ourselves the question, as a community, company or organization - what do we really want to achieve? And what would achieving it look like? 
 
 So what do we really want to achieve in AI research? 
 

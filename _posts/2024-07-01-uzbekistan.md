@@ -3,7 +3,6 @@ layout: distill
 title:  How 8 Gringos Gave a Speech at an Uzbek Wedding Where No One Spoke English
 show: true
 category: open
-show: true
 related_publications: false
 date: 2024-07-01
 toc:

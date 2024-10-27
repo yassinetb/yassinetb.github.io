@@ -4,7 +4,7 @@ title:  The North Star of My PhD
 show: false
 category: open
 related_publications: false
-date: 2024-10-30
+date: 2024-10-10
 toc:
   - name: A North Star Benchmark to my PhD - The ARC Challenge  
   - subsections:

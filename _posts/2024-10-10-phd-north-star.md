@@ -1,12 +1,12 @@
 ---
 layout: distill
-title:  The North Star of My PhD
-show: false
+title:  The North Star of My PhD (Part 1)
+show: true
 category: open
 related_publications: false
-date: 2024-10-10
+date: 2024-10-28
 toc:
-  - name: A North Star Benchmark to my PhD - The ARC Challenge  
+  - name: Part 1 - The ARC Challenge, A North Star Benchmark to my PhD  
   - subsections:
     - name: What is ARC?
     - name: Why can humans solve ARC perfectly? 
@@ -16,7 +16,7 @@ toc:
 
 For the past 9 months, I have been spending a vast amount of time thinking and reading about a large variety of Machine Learning and Neuroscience problems and methods. I'm often asked what my PhD is about <d-footnote>Hi dad</d-footnote> - and I struggle to answer. This is my attempt at answering.
 
-# A North Star Benchmark to my PhD: The ARC Challenge 
+# Part 1 - The ARC Challenge, A North Star Benchmark to my PhD
 
 Great inventions often hold hidden secrets that only reveal themselves with time. This is what I think of Francois Chollet's [Abstraction And Reasoning Corpus (ARC) Challenge](https://arcprize.org/), which has, since I have started thinking about it in August 2022, made me, and countless others, think about an ocean of different problems and research avenues. This small dataset of little and simple visual puzzles somehow still holds bullet-proof to the entirety of modern Deep Learning (including the latest iterations of LLMs), and encompasses the vast majority of modern "Artificial Intelligence" challenges.
 
@@ -81,6 +81,6 @@ Obviously, the other side of the coin is the well known Goodhart Law "When a met
 
 Ultimately, there is no benchmark that cannot be gamed with enough time an effort. This is why it's important to use multiple metrics, and to keep on updating the metrics. Most importantly, it's important to regularly ask ourselves the question, as a community, company or organization - what do we really want to achieve? And what would achieving it look like? 
 
-So what do we really want to achieve in AI research? 
+So what do we really want to achieve in AI research? And what would achieving it look like? 
 
 

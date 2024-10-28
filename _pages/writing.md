@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: Writing
 nav: true
@@ -10,7 +10,7 @@ children:
   - title: divider
   - title: Publications
     permalink: /publications/
-  # - title: divider
-  # - title: blog
-    # permalink: /blog/
---- -->
+  - title: divider
+  - title: Vignettes
+    permalink: /vignettes/
+---

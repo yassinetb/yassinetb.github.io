@@ -9,8 +9,8 @@ show: false
 
 <div class="talks">
     <div class="header-bar">
-        <h1>Interesting Reads of 2024</h1>
-        <p>I often read cool articles, or watch great youtube videos. But they might not be great enough for me to add on my "Internet Favorites" section. So here they are, as well as some personal notes on them. 
+        <h1>Interesting Content of 2024</h1>
+        <p>I often read cool articles, watch documentaries or movies. But they might not be great enough for me to add on my "Internet Favorites" section. So here they are, as well as some personal notes on them. 
         <br /><br />
         Who knows - maybe your mind is currently open for some fascination? Maybe you'll find something here...</p> 
     </div>
@@ -44,4 +44,11 @@ show: false
     * The Parables of Agassiz and from "Zen and the Art of Motorcycle Maintenance" are wonderful -
     "The point of both of these parables: nothing beats direct experience. Get the data yourself. You develop some basis in reality by getting some first-hand data, and reasoning up from there, versus starting with somebody else’s lossy compression of a messy, evolving phenomenon and then wondering why events keep surprising you."
     * "The photographer Robert Capa advised beginning photographers: “If your pictures aren't good enough, you're not close enough”. It is also good advice for understanding things. When in doubt, go closer."
+
+* [Invictus](https://www.imdb.com/title/tt1057500/)
+    * I watched Invictus on the plane out of Cape Town to Zurich - and what a way to experience the movie. I will remember three things about this movie: 
+        * Nelson Mandela, and the South African people have *chosen* peace and forgiveness. They have fought for it, when it was not the easy choice to make. How easy would it have been for them to take revenge on the Afrikaners - we would have a very different nation today, that would still be divided. Today, people of all origins stand together, and seat together at the same table. Of course, the disparities are still significant - there remains discrimination, and so much more to fix. But South Africa has chosen peace, has chosen forgiveness, courage and humility - and these are still preserved today.
+        * The different communities of South Africa do not have to mix - and they indeed do not. They only have to respect one another. They are different cultures, communities, and this is exactly the strength of this country. While one may see a country where communities do not mingle, I chose to see a country where communities peacefully cohabit and work together to build a greater life - and that is incredibly powerful. 
+        * Peace is never reached through violence, or worse, revenge. It is always found through finding common grounds between the parties, and reinforcing these grounds. I pray that Israel and Palestine will find the strength and courage to see their common grounds, and one day decide that the past must be forgotten, and the only way to peace was to look forward. Perhaps one day, both Palestinians and Israelis will play Football with one another. Perhaps they can play music together. But they must work together on something beyond their identity - to create a new one, a new sense of purpose that is not founded on the very principle of opposition. 
+    I shed a few tears, and it felt good.
 

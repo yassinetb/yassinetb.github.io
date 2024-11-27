@@ -59,3 +59,9 @@ show: false
     * Regarding science, being a researcher myself, I’m in constant awe of the amount of genius I encounter every day while reading papers and hearing of the latest progress. It does come in a different form than it did several centuries ago, with more output often being the fruit of group labour rather than individual, but there was never a more exciting time to be in science than today.
     * Finally, I want to make the point that genius takes a lot of time to be noticed and acknowledged as such. « The dead is always greater than his alive version ». Allow time to see through the geniuses of today - their work will (hopefully) will stand the test of time and emerge as such in a few decades.
 
+* [Conclave](https://www.rottentomatoes.com/m/conclave)
+    * A great movie. My favorite quotes of the movie: 
+        * There is one sin which I have come to fear above all others... Certainty. Certainty is the great enemy of unity. Certainty is the deadly enemy of tolerance. If there was only certainty, and no doubt, there would be no mystery. And therefore, no need for faith. Let us pray that god gives us a pope who doubts. 
+        * The men who are dangerous are the ones who do want it. 
+    * The ending was just great. Very strange to imagine someone not fully male being in charge of papacy - but also fascinating. 
+

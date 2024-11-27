@@ -19,7 +19,6 @@ toc:
   - name: How do we connect System 1 and System 2?
   - subsections:
      - name: Chain-Of-Thought & Test-Time-Training
-     - name: 
      - name: Neuro-Symbolic Approaches 
      - name: What does Neuroscience tell us about System 1 and System 2 thinking? 
   - subsections: 

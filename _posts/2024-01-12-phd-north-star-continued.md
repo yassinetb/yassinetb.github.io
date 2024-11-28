@@ -107,3 +107,42 @@ Long story short, I am now a bit unsure what to think about this.
      - name: Chain-Of-Thought & Test-Time-Training
      - name: Neuro-Symbolic Approaches 
      - name: What does Neuroscience tell us about System 1 and System 2 thinking?  -->
+
+<!-- 
+"In the 1980s and 1990s a schism emerged in the artificial intelligence community. On one side were 
+those in the symbolic AI camp, who were focused on decomposing human intelligence into its 
+constituent parts in an attempt to imbue AI systems with our most cherished
+skills: reasoning, language, problem solving and logic. In opposition were those in the behavioral
+AI camp, led by the roboticist Rodney Brooks at MIT, who believed the symbolic approach was doomed to fail because “we will never understand how to 
+decompose human level intelligence until we’ve had a lot of practice with simpler level intelligences.”
+
+Brooks’s argument was partly based on evolution: it took billions of years before life could simply 
+sense and respond to its environment; it took another five hundred million years of tinkering for 
+brains to get good at motor skills and navigation; and only after all of this hard work did 
+language and logic appear. To Brooks, compared to how long it took for sensing and moving to 
+evolve, logic and language appeared in a blink of an eye. Thus he concluded that “language . . . 
+and reason, are all pretty simple once the essence of being and reacting are available. 
+That essence is the ability to move around in a dynamic environment, sensing the surroundings to a degree sufficient to achieve the necessary 
+maintenance of life and reproduction. 
+This part of intelligence is where evolution has concentrated its time—it is much harder.”
+
+To Brooks, while humans “provided us with an existence proof of [human-level intelligence], we must be careful about what the lessons are to be gained 
+from it.” To illustrate this, he offered a metaphor:
+
+Suppose it is the 1890s. Artificial flight is the
+glamor subject in science, engineering, and venture
+capital circles. A bunch of AF researchers are
+miraculously transported by a time machine to the
+1980s for a few hours. They spend the whole time in
+the passenger cabin of a commercial passenger
+Boeing 747 on a medium duration flight.
+Returned to the 1890s they feel vigorated, knowing
+that AF is possible on a grand scale. They
+immediately set to work duplicating what they have
+seen. They make great progress in designing pitched
+seats, double pane windows, and know that if only
+they can figure out those weird "plastics" they will
+have their grail within their grasp. (A few
+connectionists amongst them caught a glimpse of an
+engine with its cover off and they are preoccupied
+with inspirations from that experience.) -->

@@ -65,3 +65,20 @@ show: false
         * The men who are dangerous are the ones who do want it. 
     * The ending was just great. Very strange to imagine someone not fully male being in charge of papacy - but also fascinating. 
 
+[La Grande Bellezza](https://www.rottentomatoes.com/m/the_great_beauty)
+    * It's funny how it took me a little while to understand this movie was the masterpiece it is. It started with the most random depiction of sunny Rome, with completely unrelated little pictures taking place in parallel. And then, it looked like we would get a satirical/comedy about the life of the Roman "borgese" pseudo-intellectuals. In some way, this is what it is, but it's also so much more - and I am not even sure how to describe what this was. 
+        * Finisce sempre così
+          con la morte
+          prima però c'è stata la vita
+          nascosta sotto il bla bla bla bla bla
+          è tutto sedimentato sotto il chiacchiericcio e il rumore
+          il silenzio e il sentimento
+          l'emozione e la paura
+          gli sparuti incostanti sprazzi di bellezza
+          e poi lo squallore disgraziato e l'uomo miserabile
+          tutto sepolto dalla coperta dell'imbarazzo dello stare al mondo bla bla bla bla
+          altrove c'è l'altrove
+          io non mi occupo dell'altrove
+          dunque, che questo romanzo abbia inizio
+          in fondo è solo un trucco
+          sì, è solo un trucco

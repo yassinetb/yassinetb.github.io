@@ -65,7 +65,7 @@ show: false
         * The men who are dangerous are the ones who do want it. 
     * The ending was just great. Very strange to imagine someone not fully male being in charge of papacy - but also fascinating. 
 
-[La Grande Bellezza](https://www.rottentomatoes.com/m/the_great_beauty)
+* [La Grande Bellezza](https://www.rottentomatoes.com/m/the_great_beauty)
     * It's funny how it took me a little while to understand this movie was the masterpiece it is. It started with the most random depiction of sunny Rome, with completely unrelated little pictures taking place in parallel. And then, it looked like we would get a satirical/comedy about the life of the Roman "borgese" pseudo-intellectuals. In some way, this is what it is, but it's also so much more - and I am not even sure how to describe what this was. 
         * Finisce sempre così
           con la morte
@@ -82,3 +82,11 @@ show: false
           dunque, che questo romanzo abbia inizio
           in fondo è solo un trucco
           sì, è solo un trucco
+
+* [Underrated ways to change the world](https://substack.com/history/post/151872212)
+    * "A lot of people would like to make the world better, but they don’t know how. This is a great tragedy". Here are some good ways that are not directly involved getting filthy rich and powerful or giving up everything you own and scrubbing the toilets in an orphanage. 
+        * Be the second bravest person, and at least talk about stuff that is wrong.
+        * Switchboarding: "I think of this as switchboarding, trying to get the right information to the right person." Butterfly effect will then do its magic. 
+        * "Crack Your Knucles": You often have more power to investigate/do something than a person who's paid for doing it. Because you have freedom over how you want to conduct it, and they don't. 
+        * "Culture is everything": Create cultures around, just by consistently showing up at the right places and acting like what you want to project. Cultures can change the world. 
+        * Build you RUNK: "Ronald's Universal Number Kounter", and how the entirety of modern interenet may rely on it. Build things that are simple but work, and most importantly, are reliable.  

@@ -65,7 +65,7 @@ show: false
         * The men who are dangerous are the ones who do want it. 
     * The ending was just great. Very strange to imagine someone not fully male being in charge of papacy - but also fascinating. 
 
-[La Grande Bellezza](https://www.rottentomatoes.com/m/the_great_beauty)
+* [La Grande Bellezza](https://www.rottentomatoes.com/m/the_great_beauty)
     * It's funny how it took me a little while to understand this movie was the masterpiece it is. It started with the most random depiction of sunny Rome, with completely unrelated little pictures taking place in parallel. And then, it looked like we would get a satirical/comedy about the life of the Roman "borgese" pseudo-intellectuals. In some way, this is what it is, but it's also so much more - and I am not even sure how to describe what this was. 
         * Finisce sempre così
           con la morte

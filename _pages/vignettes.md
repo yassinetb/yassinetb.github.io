@@ -28,7 +28,7 @@ Continue building your potential, even when the results aren’t immediate, but 
 
 * **"*If everyone did their best, everyone would have enough*"**
 
-It is so curious that us humans haven't collectively internalized this old and cheap trick to happiness. This trick - it not only brings joy to the ticker, but also to the tricked, and to everyone who witnesses the trick. It is so simple, so innocent - so unnecessary. 
+It is so curious that us humans haven't collectively internalized this old and cheap trick to happiness. This trick.. - it not only brings joy to the tricker, but also to the tricked, and to everyone who witnesses the trick. It is so simple, so innocent - so unnecessary. 
 
 This is maybe what makes it so magical - it is profoundly unnecessary. Uncalled for. Uninterested. Perhaps most importantly, it is unexpected.
 

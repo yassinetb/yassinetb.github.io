@@ -50,4 +50,9 @@ nav: false
 
 * [Why I'm Awlays Late - Tim Urban](https://waitbutwhy.com/2015/07/why-im-always-late.html) A classic essay - the first one I ever read from Tim Urban. 
 
+* [Jerry Seinfeld on The Tim Ferris Podcast](https://open.spotify.com/episode/4h8qKSlDbewofkxq6HsVaX?si=wmE0117CTGeYrjehU7c0AA&t=709) 
+    * This one is pure gold. Hearing about Jerry Seinfeld's writing discipline is just phenomenal. A few takeaways from this: 
+    * He sits down every day, for ~4 hours, with a pen and a "yellow legal notebook", and forces himself to write. No distractions, nothing else - just him, the notebook and the pen. He is not allowed to do anything else for these 4 hours, and if he cannot write anything, so be it - he still has to stay staring at the notebook for these 4 hours. It's about the discipline of showing up every day. 
+    * He really thinks about writing in two ways - the creative way, and the disciplined way. He consciously alternates between these two phases. The creative one is just about raw ideas that are super interesting but not thought through, and which *shouldn't* be thought through. The second *disciplined* phase is cleaning up and expandign on the creative phase. 
+    * A good follow up is the excellent review of his methods by [David Perell](https://open.spotify.com/episode/4CvrNvOonv0rv1yt85gwRb?si=shJ3kyg9RWakrmE_APr8FQ&t=1105): 
 

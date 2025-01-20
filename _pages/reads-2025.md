@@ -9,7 +9,7 @@ show: false
 
 <div class="talks">
     <div class="header-bar">
-        <h1>Interesting Content of 2024</h1>
+        <h1>Interesting Content of 2025</h1>
         <p>I often read cool articles, watch documentaries or movies. But they might not be great enough for me to add on my "Internet Favorites" section. So here they are, as well as some personal notes on them. 
         <br /><br />
         Who knows - maybe your mind is currently open for some fascination? Maybe you'll find something here...</p> 
@@ -33,3 +33,7 @@ show: false
     * He really thinks about writing in two ways - the creative way, and the disciplined way. He consciously alternates between these two phases. The creative one is just about raw ideas that are super interesting but not thought through, and which *shouldn't* be thought through. The second *disciplined* phase is cleaning up and expandign on the creative phase. 
     * A good follow up is the excellent review of his methods by [David Perell](https://open.spotify.com/episode/4CvrNvOonv0rv1yt85gwRb?si=shJ3kyg9RWakrmE_APr8FQ&t=1105): 
    
+* [200 Billion Weights of Responsibility](https://docs.google.com/document/d/1aEdTE-B6CSPPeUWYD-IgNVQVZM25f7MF-u9qn5KJJvo/edit?tab=t.0)
+    * Author talks about the stress of AI research in recent history - and everything he writes down is spot on accurate. 
+    * I can particularly relate to the "No Role For Scientist" section - it's so hard today for academic research to have any sort of impact in this field. Engineering at max level of data and compute is what wins. The Bitter Lesson all over again...
+    * The author unfortunately committed suicide... 

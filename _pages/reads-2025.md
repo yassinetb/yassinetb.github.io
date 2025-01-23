@@ -37,3 +37,10 @@ show: false
     * Author talks about the stress of AI research in recent history - and everything he writes down is spot on accurate. 
     * I can particularly relate to the "No Role For Scientist" section - it's so hard today for academic research to have any sort of impact in this field. Engineering at max level of data and compute is what wins. The Bitter Lesson all over again...
     * The author unfortunately committed suicide... 
+
+* [Learning The Elite Class](https://substack.com/home/post/p-63906299)
+    * I always find Aella's writing quite interesting and insightful, and this little vignette is no exception. 
+    * I am part of this "Elite Class", who learned the language very early on in life - as well as my being Moroccan which made me even more fluent in this "polite plastic bubble around each person that nobody's really trying to pierce through".
+    * Although through my years in Science & Research (where this Elite is rather rare), I have become accustomed to being around people who do not speak this language, but I must admit I rarely reflect over how it must feel for them - especially when they end up being part of such events.
+    * That reminds me of a funny day where a South American man who had a crazy immigration story ended up at a PhD defense at INI - invited by Linus if I recall correctly. The guy was obviously from a different world, but had his shit together. He was a "axe throwing instructor". Yep, an axe throwing instructor. Pretty wild. I wonder what it was like for him to be surrounded by academics whose live revolved around Science and Knowledge. Sure, this is not the same as the elite class stuff, but the mismatch was just about the same.
+      

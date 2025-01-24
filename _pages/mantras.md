@@ -18,8 +18,9 @@ show: false
 
 * Stagnation is the beginning of downfall. 
 * Whatever you are waiting for to "finally be happy" won't make you happy when you eventually get it. 
+* It's easier to hold onto your values and principles 100% of the times than 99% of the times. Saying yes "*just once*" also tends to have a compounding effect.  
 * Life is short - choose the uncertain and risky path, and make it work somehow.  
-* Choose to see the good in people. Try to always find *one* good thing about them. Tell this to them. It will both empower them, and make them respect you.
+* Choose to see the good in people. Try to always find *one* good thing about them. Tell it to them. It will both empower them, and make them respect you. 
 * One likes *because*. One loves *despite*. 
 * The best time to plant a tree was 20 years ago. The second best time to plant the tree is today.
 * The world is a museum of passion projects. [John Collison](https://twitter.com/collision/status/1529452415346302976)

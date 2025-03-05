@@ -17,14 +17,15 @@ show: false
 <br />
 
 * Stagnation is the beginning of downfall. 
-* Whatever you are waiting for to "finally be happy" won't make you happy when you eventually get it. 
+* The way you do anything is the way you do everything. 
+* Whatever you are waiting for to "finally be happy" won't make you happy when you finally get it. 
 * The journey is the destination. 
 * It's easier to hold onto your values and principles 100% of the times than 99% of the times. Saying yes "*just once*" also tends to have a compounding effect.  
 * Life is short - choose the uncertain and risky path, and make it work somehow.  
-* Choose to see the good in people. Try to always find *one* good thing about them. Tell it to them. It will both empower them, and make them respect you. 
+* Choose to see the good in people. Try to always find *one* good thing about them. Say it to them. It will both empower them, and make them respect you. 
 * One likes *because*. One loves *despite*. 
 * The greatest talent one can have - and that is the great unfairness of the world - can never even compete with the power of access, money and connections. If you have talent but no access, focus on aligning with people who have access, or if you are lucky enough to have the capacity, devote great effort in building the access. 
-* * Creatives have two masters: the art and the medium. Only serve the art, and you won’t find an audience. Only serve the medium, and your work will lose its soul. It’s the dance between them that makes a successful creative. ([David Perell](https://x.com/david_perell/status/1346533515089694721))
+* "Creatives have two masters: the art and the medium. Only serve the art, and you won’t find an audience. Only serve the medium, and your work will lose its soul. It’s the dance between them that makes a successful creative." ([David Perell](https://x.com/david_perell/status/1346533515089694721))
 * The stuff that's *really, truly* good - it only gets better with time. #Lindy. 
 * The best time to plant a tree was 20 years ago. The second best time to plant the tree is today.
 * The world is a museum of passion projects. [John Collison](https://twitter.com/collision/status/1529452415346302976)
@@ -35,5 +36,5 @@ show: false
 * The people around you are the most important influence on your life.
 * Knowing how to navigate social settings, make friends and appear smart and knowledgeable is a very important skill one ought to master.
 * Only ask favours from people who have no one to punish them if they get caught. As such, never trust HR at your company. 
-* When there is no way to know the truth, one must simply choose their truth. [Anatomie d'une chute](https://www.allocine.fr/film/fichefilm_gen_cfilm=297303.html)
+* When there is no way to know the truth, one must simply choose their own truth. [Anatomie d'une chute](https://www.allocine.fr/film/fichefilm_gen_cfilm=297303.html)
 * People whom are hyper socially competent - socialites - are a pain in the ass. Mastering a non-social-centric craft is a great testimony of intellectual honesty and integrity. 

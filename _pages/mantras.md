@@ -25,6 +25,7 @@ show: false
 * Choose to see the good in people. Try to always find *one* good thing about them. Say it to them. It will both empower them, and make them respect you. 
 * One likes *because*. One loves *despite*. 
 * The greatest talent one can have - and that is the great unfairness of the world - can never even compete with the power of access, money and connections. If you have talent but no access, focus on aligning with people who have access, or if you are lucky enough to have the capacity, devote great effort in building the access. 
+* The difference between a weirdo and a genius is just success. 
 * "Creatives have two masters: the art and the medium. Only serve the art, and you won’t find an audience. Only serve the medium, and your work will lose its soul. It’s the dance between them that makes a successful creative." ([David Perell](https://x.com/david_perell/status/1346533515089694721))
 * The stuff that's *really, truly* good - it only gets better with time. #Lindy. 
 * The best time to plant a tree was 20 years ago. The second best time to plant the tree is today.
@@ -34,6 +35,7 @@ show: false
 * People are born with certain talents, at various levels of it. No amount of education can overcome natural talent. Education and training can take you very far, almost always further away than lazy talented people, but you can never learn talent and intuition. Find your talents, and exploit them. 
 * The capacity to name things is no reflection of understanding - but it fools a lot of people into thinking you understand: be aware of what game you are trying to win.  
 * The people around you are the most important influence on your life.
+* In a world that’s changing so quickly, the biggest risk you can take is not taking any risk. (Peter Thiel)
 * Knowing how to navigate social settings, make friends and appear smart and knowledgeable is a very important skill one ought to master.
 * Only ask favours from people who have no one to punish them if they get caught. As such, never trust HR at your company. 
 * When there is no way to know the truth, one must simply choose their own truth. [Anatomie d'une chute](https://www.allocine.fr/film/fichefilm_gen_cfilm=297303.html)

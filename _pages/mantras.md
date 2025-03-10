@@ -28,6 +28,7 @@ show: false
 * The difference between a weirdo and a genius is just success. 
 * "Creatives have two masters: the art and the medium. Only serve the art, and you won’t find an audience. Only serve the medium, and your work will lose its soul. It’s the dance between them that makes a successful creative." ([David Perell](https://x.com/david_perell/status/1346533515089694721))
 * The stuff that's *really, truly* good - it only gets better with time. #Lindy. 
+* Don't aspire to be able to predict the future, aspire to be a great [contigency planner](https://x.com/Globalflows/status/1642303459251863553). As you've thought through all the possibilities, you can react faster than everyone to the present.  
 * The best time to plant a tree was 20 years ago. The second best time to plant the tree is today.
 * The world is a museum of passion projects. [John Collison](https://twitter.com/collision/status/1529452415346302976)
 * Love bites, always. But true, selfless love is the only meaningful pursuit in one's life.  

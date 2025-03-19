@@ -19,7 +19,7 @@ show: false
 * Stagnation is the beginning of downfall. 
 * The way you do anything is the way you do everything. 
 * Whatever you are waiting for to "finally be happy" won't make you happy when you finally get it. 
-* The journey is the destination. 
+* Slow is smooth, and smooth is fast. 
 * It's easier to hold onto your values and principles 100% of the times than 99% of the times. Saying yes "*just once*" also tends to have a compounding effect.  
 * Life is short - choose the uncertain and risky path, and make it work somehow.  
 * Choose to see the good in people. Try to always find *one* good thing about them. Say it to them. It will both empower them, and make them respect you. 

@@ -39,3 +39,16 @@ I often recall the smile on the face of a man for whom I stopped my car at the p
 Imagine a world all of us showed kindness to our neighbors, every day. Taking 10 seconds of our days to bring a genuine smile to someone who does not expect it. 
 
 "*If everyone did their best, everyone would have enough*"
+
+* **Ramadan is not supposed to be won** 
+
+Upon a conversation with Anas, where I told him I was suffering in these last few days of fasting for the month of Ramadan, he immediately responded - "Imagine people in war zones". Of course, he is right - this indeed is the whole point of Ramadan - to feel a tiny fraction of the pain of the ones who are truly suffering. The ones who do not suffer because they choose to, but rather because they have no other way. Anas continued: 
+
+> You're not supposed to win it.
+> 
+> True control is not being able to control your body but being able to suffer and still be peaceful with the suffering because you know it’s nothing compared to the others'.  That’s how you know you’ve achieved the right level of Ramadan consciousness - when it's beyond your ego. 
+> 
+> You’re not fasting because it makes you a better person, or because you can fight your urges. No. You're fasting because it reminds your soul of what it feels like to be weak, and how lucky you are to be in control the rest of the time. 
+
+
+

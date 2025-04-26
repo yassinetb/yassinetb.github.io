@@ -42,3 +42,4 @@ show: false
 * When there is no way to know the truth, one must simply choose their own truth. [Anatomie d'une chute](https://www.allocine.fr/film/fichefilm_gen_cfilm=297303.html)
 * People whom are hyper socially competent - socialites - are a pain in the ass. Mastering a non-social-centric craft is a great testimony of intellectual honesty and integrity. 
 * Greatness doesn't come from intelligence. It comes from character. And character comes with time and suffering. (Jensen Huang) 
+* People often act as mirrors to yourself. Mirrors always have a form of distortion - some will be advantageous to your nose, some won't be. Stick to the right mirrors.  

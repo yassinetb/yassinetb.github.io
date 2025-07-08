@@ -55,7 +55,7 @@ show: false
   * Lately, I found myself more and more drawn into the world of investing, and I found these two podcasts incredibly inspiring. Warren Buffet and Charlie Munger (Mark Leonard is from this same school of through I believe) are *venerated* for their wisdom, with thousands of different quotes attributed to them etc... But it seems that the entirety of their "wisdom" is that they have managed to master two arts: patience, and focus. Focus allows them to get to the real depth of a matter, and not divert themselves with noise. Patience allows them to collect the fruits of the initial efforts that they put into making good initial decision. Of course, there are lessons about hiring, about how to judge business about X and Y and Z - but it really seems that this is the *essence* of what they did, and what made them so much better than everyone else. And it's not so hard to believe, as humans (even very smart ones) consistenty fall in the trap of distractions and impatience.  
   
 
-* [Reading Lolita in Tehran]() *July 2025* 
+* [Reading Lolita in Tehran](https://www.imdb.com/title/tt27679443/) *July 2025* 
   * "She hadn’t done anything - she was just pretty. But they took her, and they raped her to make sure she wouldn’t go to paradise when they’d kill her."
     
     I can only imagine how special this film must have been for all the cast involved. Of course, all actresses are of Iranian descent, but either are born of parents who fled after the revolution, or fled themselves. This is one of the things I take away from this movie - the Iranian intellectual culture and heritage still vibrates, particularly outside of Iran. It's a form a counterculture to the reality of (or what I imagine of) life in Tehran - longing of pre-revolution times. 

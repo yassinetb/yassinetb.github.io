@@ -1,9 +1,9 @@
 # Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Installing and Deploying](#installing-and-deploying)
-  - [Recommended Approach](#recommended-approach)
-  - [Local Setup on Windows](#local-setup-on-windows)
-  - [Local Setup using Docker (Recommended)](#local-setup-using-docker-recommended)
+  - [Local setup on Windows](#local-setup-on-windows)
+  - [Local setup using Docker (Recommended)](#local-setup-using-docker-recommended)
     - [Build your own docker image](#build-your-own-docker-image)
   - [Local Setup (Legacy)](#local-setup-legacy)
   - [Deployment](#deployment)
@@ -13,7 +13,7 @@
     - [Manual deployment to GitHub Pages](#manual-deployment-to-github-pages)
     - [Deployment to another hosting server (non GitHub Pages)](#deployment-to-another-hosting-server-non-github-pages)
     - [Deployment to a separate repository (advanced users only)](#deployment-to-a-separate-repository-advanced-users-only)
-  - [Upgrading from a previous version](#upgrading-from-a-previous-version)
+    - [Upgrading from a previous version](#upgrading-from-a-previous-version)
 
 # Installing and Deploying
 

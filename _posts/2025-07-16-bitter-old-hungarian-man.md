@@ -1,6 +1,6 @@
 ---
 layout: distill
-title:  A Bitter Old Hungarian Man
+title:  An Old and Bitter Hungarian Man
 show: true
 featured: true
 category: open
@@ -11,9 +11,7 @@ date: 2025-07-16
 
 It's 6.30am in Vancouver, and towards the end of my run around beautiful Stanley Park, I decided to pass by the calisthenics park and do a few pull ups. I meet there a 65 year Hungarian old man who was doing his pull ups in peace. I engaged conversation after doing my set and asked him whether he was from here. He quietly nodded. I told him how amazing his city was - being ecstatic from the absolutely stunning sunrise run I had just experienced. He quietly nodded again, and added "but very expensive...". And he said this with a notable and peculiar bitterness. 
 
-
 {% include figure.liquid loading="eager" path="assets/img/vcv_stanley_park.jpeg" class="img-fluid rounded z-depth-1" %}
-
 
 I was not expecting such bitterness from a 65 year old man who was strong and healthy enough to be doing pretty serious pull ups at 6 in the morning. It just was a bit odd, and unlike what one expect at this time - so I continued conversation - and it went on for about 30 minutes - here is what it taught me about B2B SaaS. Just kidding, but it did make me reflect quite a bit.    
 

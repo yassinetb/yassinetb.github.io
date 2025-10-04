@@ -4,8 +4,8 @@ title: Building and ARC task-generator with Reinforcement Learning
 description: 
 img: assets/img/ARC.png
 importance: 2
-category: open
-show: true
+category: close
+show: false
 related_publications: false
 date: 2024-01-01 00:00:00 UTC
 duration: 3 months

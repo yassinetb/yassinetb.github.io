@@ -11,6 +11,9 @@ children:
   - title: Bookshelf
     permalink: /bookshelf/
   - title: divider
+  - title: Stuff I Read & Watch
+    permalink: /reads/
+  - title: divider
   - title: To-Do-List
     permalink: /to-do-list/
 ---

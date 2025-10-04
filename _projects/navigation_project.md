@@ -4,8 +4,8 @@ title: Learn to navigate within scenes by leveraging object representation and i
 description: 
 img: assets/img/hae_project.png
 importance: 1
-category: open
-show: true
+category: closed
+show: false
 related_publications: false
 date: 2024-07-19 00:00:00 UTC
 duration: 3-6 months

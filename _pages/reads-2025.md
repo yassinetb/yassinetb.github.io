@@ -70,8 +70,14 @@ show: true
 * [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks)
   * Ok I have TOO MUCH to write about this. Will try to find the time... This show... David Lynch... Waw. 
 
-
 * [All That's Left Of You](https://zff.com/en/movies/all-thats-left-of-you-98273) *October 2025*
   * [Israeli soldier to a Palestinian father - in front of his young son] "Tell your son that his mom is a whore. Say it louder. Louder!"
 
   A poignant, touching, and inspiring tale of Palestinian suffering - from 1948 to modern days. The movie told the story of a family which has been, through the major historical events of the conflict, significantly damaged - *humiliated*. Humiliation really is the right word to describe what the film felt like - repeated, humiliation and dehumanization of the Palestinian people. I found particularly powerful the symbolism of two Palestinian parents, after having lost their son to a bullet in the brain from Israeli Army, being asked whether they wanted to donate their son's organs - and ultimately accepting. The heart of their son goes to an Israeli young man - the Israeli man carries the heart of a Palestinian. I always find particularly alienating and uncomfortable to be watching such scenes of suffering and violence from the comfort of a cinema chair. Of course, I more than ever believe in the power and impact that art can have to convey messages and make things move in unexpected ways, but as this is not a war I am in any way fighting, it just makes me feel like a naive, ignorant coward. But no one - including myself in this instnce -  should care about how it makes *me* feel.  
+
+* [Flaneur & Humility](https://www.matin.care/blog/humility)
+  * "I once watched a twenty-four-year-old at a coffee shop, holding court with a partner from a well-known fund. The kid was explaining why his startup was going to be bigger than Stripe. Not as big. Bigger. He'd been working on it for four months. Four months. That's not even enough time to get good at making coffee, and this kid is already planning the memoir. He spoke with the certainty of someone who had already built it, sold it, written the memoir, and was now doing a press tour for the movie adaptation.
+
+  The partner nodded along, asking softball questions, enjoying the performance. When the kid left, I did not expect anything. And that's exactly what happened. The partner turned to his colleague and said, "I like his energy."
+
+  That's the whole game. Confidence is the product. Certainty is the pitch. Humility is nowhere in the room. Humility didn't even get a meeting."

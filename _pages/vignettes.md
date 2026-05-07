@@ -50,5 +50,13 @@ Upon a conversation with Anas, where I told him I was suffering in these last fe
 > 
 > You’re not fasting because it makes you a better person, or because you can fight your urges. No. You're fasting because it reminds your soul of what it feels like to be weak, and how lucky you are to be in control the rest of the time. 
 
+* **On AI slop**
 
+As I'm submitting again to NeurIPs, my labmates and I are contemplating how many fully AI generated papers we'll have to compete against...
+
+I really think that in a few years, the community will come back to fully hand-written code/papers and fully human reviews - even if it means it being less good, less polished, and much slower. Humans connect to humans, to stories.. and this is just not what it is right now. This hyper-productivity hype that the community is experiencing will slowly shift to indifference. The shitty stuff will be produced/consumed - more and more of it - but people will care less and less. It's just so sad that this is happening in *Science* - that thing which has always been humanity's frontier achievement.
+
+I feel it's exactly the same that happened to many crafts in recent history - tailoring, horology, agriculture... When machines took over everything and did better than humans, a community of passionate people emerged and kept true to the traditions, heritage, and genuine craftmanship. Today, thankfully, these crafts are thriving - more than ever before - sustained by a community of people who actually care, and powered by human stories.
+
+I now look forward to the day Science goes back to this - and I know it's my responsibility to incarnate this philosophy and not succumb to the excessive AI temptation. I hope to be brave enough to do so.
 

@@ -20,7 +20,7 @@ Hi! I am Yassine – born and raised in sunny and beautiful Morocco.
 
 I am a 3rd year PhD student under the supervision of [Prof. Benjamin Grewe](https://grewelab.org/biography/) and [Melika Peyvand](https://www.ini.uzh.ch/en/research/groups/EIS.html) at the Institute of Neuroinformatics (INI), ETH Zurich. I am particularly interested in the topics of Compositionality and Planning in A.I., and am always on the lookout on what can we learn from Cognitive science and Neuroscience on how our intelligence comes to be. You can work with me by browsing through my [open projects](/projects/) or by [contacting me]({{ site.email | prepend: 'mailto:' }}). 
 
-I recently joined [Creator Fund](https://thecreatorfund.com/) along with my PhD alongside my PhD at ETH. Creator Fund is the leading investor in PhD and university startups across Europe, with a vision and drive to invest in the most cutting edge tech, and make it succeed in the real world. My job at CF is to scout up and coming startupts and help on investment decision -- so if you're building a startup or just thinking about it - hit me up!
+I joined [Creator Fund](https://thecreatorfund.com/) alongside my PhD at ETH. Creator Fund is the leading investor in PhD and university startups across Europe, with a vision and drive to invest in the most cutting edge tech, and make it succeed in the real world. My job at CF is to scout up and coming startupts and help on investment decision -- so if you're building a startup or just thinking about it - hit me up!
 
 When I'm not doing research, I organize an event series where I invite people who do great things to come and share them in my living room; it's called [Composing Villagers](https://composing-villagers.com) -- and you could join too!
 
